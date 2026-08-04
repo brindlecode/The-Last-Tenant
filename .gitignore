@@ -1,0 +1,36 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python (tools/)
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# Backups and scratch
+*.bak
+*~
+*.tmp
+/scratch/
+/.local_notes/
+
+# Exported manuscript artifacts (regenerable via tools/assemble_manuscript.py;
+# 07_manuscript/full_manuscript.md itself IS tracked as the assembly's
+# canonical output location, just not alternate export formats)
+07_manuscript/*.docx
+07_manuscript/*.pdf
+07_manuscript/*.epub
+
+# Local environment
+.env
+.env.local
