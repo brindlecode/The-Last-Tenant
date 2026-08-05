@@ -77,12 +77,16 @@ in `00_project/gate_2_character_validation.md`.
   she's been sitting on once she and Mara re-examine the footage
   together (`05_mystery/clue_register.md` #8) — a genuine collaborative
   discovery, not a unilateral one, consistent with her arc below.
-- **Behavioral tells**: Frames people with her hands without noticing
-  she's doing it — an unconscious editor's habit, thumbs and
-  forefingers briefly squaring a shot — when she's turning something
-  over intently. Reflexively says "hang on, go back" mid-conversation,
-  a verbal tic carried over from reviewing footage, when she wants
-  someone to repeat something she's just registered as significant.
+- **Behavioral tells**: **AMENDED post-red-team** (the original tell,
+  "squaring a shot" with her hands, collided with Adrienne Shaw's and
+  Jonah Bell's tell verbs): narrates in present tense when recounting a
+  memory that's just become significant to her — "so she's standing
+  there, and..." — an editor's habit of treating memory like footage
+  still being reviewed, rather than a settled, past-tense account. A
+  specific, professionally-grounded verbal tic, not a physical gesture.
+  Reflexively says "hang on, go back" mid-conversation, carried over
+  from reviewing footage, when she wants someone to repeat something
+  she's just registered as significant.
 - **Arc**: Has evidence without recognizing its full value → applies her
   professional skepticism to her own life for the first time, in active
   collaboration with Mara rather than alone.

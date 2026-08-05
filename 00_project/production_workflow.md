@@ -63,6 +63,14 @@ chapters through at reduced quality:
      `04_plot/tension_curve.md` / `emotional_curve.md`.
    - *Factual* — real-world procedural claims checked against
      `09_research/` sources or queued if unresolved.
+   - *Operational-harm, aggregate* — NEW, added post-red-team
+     (`00_project/red_team_review.md`, Perspective 7): at each **part**
+     boundary (not every chapter), read the accumulated Palinode/
+     Bellwether House/data-broker/financial-systems material *together*,
+     as a motivated reader assembling technique across the whole book
+     would, not just file-by-file at time of writing — a legal-risk
+     review found individually-compliant fragments can still assemble
+     into more than the sum of their parts.
    - *Prose* — line-level craft: cliché (`01_author_bible/banned_cliches.md`),
      repetition, rhythm, filtering words, overwriting.
 6. **Register update.** `08_continuity/` files updated with whatever the

@@ -1,6 +1,15 @@
 # Objective Truth Timeline
 
-STATUS: LOCKED (Gate 3 complete). This is the confidential master
+STATUS: LOCKED (Gate 3 complete), AMENDED post-red-team — see
+`00_project/gate_3_mystery_validation.md`'s amendment section and
+`00_project/red_team_review.md`. Six specific changes below: the
+synthetic lease now has a locked start date (closing a chronology gap);
+the Dana Kessler Meridian policy is added as the story's claim anchor;
+Adrienne Shaw's Part II arc now has an early-shielding phase before her
+reversal; Teo's escalation attempt and its institutional-fragmentation
+outcome are now stated; the climax's evidence-handling is corrected from
+concealment to full disclosure plus advocacy; the cache's physical
+location is corrected. This is the confidential master
 chronology — every other timeline in this directory is a filtered view
 of this one. Per `CLAUDE.md`, nothing below may appear verbatim or by
 clear implication in `07_manuscript/` ahead of its scheduled chapter,
@@ -79,16 +88,22 @@ dated, chronological consolidation for cross-timeline reference.
   genuine identities among the building's residents, using Palinode's
   own core principle (multiple independent-seeming confirmations)
   against it.
-- **~12 years before story present**: The last official paper record
-  touching Apartment 4C — a synthetic/deceased-identity lease held via
-  a Palinode-linked shell entity, unconnected to the Marsh/Voss
-  processing itself, which left no lease record at all — formally
-  lapses. No new filing occurs from this point forward. (This is a
-  separate mechanism from the Marsh family's own brief, off-record stay
-  twenty-three years ago; see `02_novel_bible/bellwether_house.md`.)
-  Gabriel Knox is paid, by a Palinode intermediary, to not report
-  irregular foot traffic and utility use in the unit — established well
-  before Elena's arrival.
+- **15 years before story present**: A synthetic/deceased-identity lease
+  is established on Apartment 4C via a Palinode-linked shell entity —
+  **date now locked, post-red-team**, closing a chronology gap: this is
+  a clean 8 years after the Marsh/Voss family's own departure (23 years
+  ago), during which the unit had ordinary, unremarkable turnover before
+  the shell entity acquired it — non-overlapping and non-contradictory
+  with the family's earlier, off-record stay. Gabriel Knox is paid, by a
+  Palinode intermediary, to not report irregular foot traffic and
+  utility use in the unit, around this time.
+- **12 years before story present**: That synthetic lease formally
+  lapses (a 3-year term). No new filing occurs from this point forward
+  — the actual origin of the "vacant twelve years" official record. (Two
+  distinct mechanisms now clearly separated in time: the family's own
+  brief, off-record stay twenty-three years ago, and this later,
+  unconnected synthetic-lease mechanism twelve-to-fifteen years ago; see
+  `02_novel_bible/bellwether_house.md`.)
 - **Roughly 14–18 months before story present, through the
   disappearance**: Elena is functionally present as all seven witness-
   facing identities, in a staggered sequence — Gabriel Knox and Irena
@@ -98,10 +113,15 @@ dated, chronological consolidation for cross-timeline reference.
   records work established later, closer to the point her evidence-
   gathering intensifies; Malik Reed's sightings cluster in the final
   two to three months. She hides her accumulating evidence archive
-  inside Apartment 4C itself — the safest available location, since the
-  unit is officially off-record. She prepares a contingency envelope
-  addressed to Mara, containing "You were the first tenant," in case
-  she is stopped before she can deliver the proof in person.
+  inside Apartment 4C's sealed, disused dumbwaiter shaft (relocated
+  post-red-team from a wall cavity — `gate_3_mystery_validation.md`
+  amendment 8), the safest available location, since the unit is
+  officially off-record. Alongside the identity documents, she keeps her
+  own investigative notes — including a direct reference to "Palinode"
+  and "the Continuity Group" by name, and evidence of the pattern beyond
+  the Voss family (amendment 9) — and prepares a contingency envelope
+  addressed to Mara, containing "You were the first tenant," in case she
+  is stopped before she can deliver the proof in person.
 - **Final weeks before story present**: Gabriel Knox notices activity
   around Apartment 4C exceeding his existing arrangement and, out of
   self-protection rather than malice, reports it up his own contact
@@ -112,28 +132,64 @@ dated, chronological consolidation for cross-timeline reference.
   on a recorded line. She disappears shortly after. Julian Vale
   personally directs her move to a controlled, non-violent containment
   site, using a small, trusted, long-term team.
-- **Story present, Part I**: Mara's investigation begins. She interviews
-  the seven witnesses and, at the Part I climax, finds Elena's hidden
-  cache and the envelope in Apartment 4C.
+- **Story present, Part I**: A routine SIU compliance flag on a small,
+  dormant Meridian life-insurance policy — held, unknown to Meridian, in
+  the name of Elena's "Dana Kessler" identity — crosses Mara's desk in
+  the ordinary course of her actual job, days before or alongside the
+  voicemail escalation. **This is the claim anchor, NEW post-red-team**
+  (`gate_3_mystery_validation.md` amendment 1), closing a Critical gap:
+  it is what gives Mara genuine, bounded professional standing to
+  investigate Bellwether House, not an unexplained personal errand
+  dressed in professional language. Mara's investigation begins; she
+  interviews the seven witnesses and, at the Part I climax, finds
+  Elena's hidden cache and the envelope in the dumbwaiter shaft.
+- **Story present, early-to-mid Part II**: Adrienne Shaw notices an
+  internal compliance flag on Mara's unusual file-access pattern (tied
+  to the Dana Kessler claim) and, rather than reporting it, actively
+  shields Mara — slow-walking the review, spending real institutional
+  capital to keep the file open. **NEW post-red-team**
+  (`gate_3_mystery_validation.md` amendment 2), closing a High finding
+  that her institutional realism and Part II timing were previously too
+  thin and too late.
 - **Story present, Part II, ~60–70% mark**: Mara's investigation gets
   close enough to alarm Palinode. Palinode-linked pressure reaches
-  Adrienne Shaw, who restricts Mara's professional standing and access
-  — the major betrayal, born of genuine institutional and personal
-  self-protection rather than long-standing conspiracy.
+  Adrienne Shaw personally — a reminder of exactly what she has to
+  lose — and she reverses, restricting Mara's professional standing and
+  access using the very compliance flag she'd been shielding her from.
+  The major betrayal, now seeded by her own earlier protection of Mara,
+  not an unmotivated first move.
 - **Story present, Part III, ~75% mark**: Even without institutional
   standing, Mara (with Teo Marchetti's off-the-record help) keeps
-  closing in. Palinode's containment calculus grows unstable — real,
-  credible danger that its non-violent preference could break — the
-  all-is-lost engine.
-- **Story present, climax**: Mara locates Elena's containment site.
-  Using her interviewing skill against Julian Vale's own unmet need for
-  her understanding, she draws out enough for a legally usable
-  confrontation (Teo present). She chooses to act on Elena's judgment
-  over her own fully verified evidence on which parts of Palinode's
-  record to expose. Julian Vale, Palinode's leadership, its criminal
-  clients, and its financial infrastructure are exposed; its
-  legitimately protected identities are not, through Mara's own careful
-  handling. Adrienne Shaw is confronted directly. Mara and Elena reach a
+  closing in. Teo had already attempted proper escalation of the Part I
+  climax evidence through his own chain of command; the referral toward
+  a better-suited unit sits in a realistic interagency queue — real
+  institutional fragmentation, not incompetence, is why this stays
+  substantially his and Mara's case long enough for this timeline to
+  work (`gate_3_mystery_validation.md` amendment 6). Palinode's
+  containment calculus grows unstable — real, credible danger that its
+  non-violent preference could break — the all-is-lost engine.
+- **Story present, climax**: Calvin Moss's cross-referenced shell-entity
+  work and Gabriel Knox's disclosure of his original paying contact
+  converge on Elena's containment site (amendment 4). Teo escalates this
+  specific lead for proper tactical resourcing; the rescue is a
+  resourced police operation, not a civilian-led approach (amendment 5).
+  Separately and afterward, in a controlled setting with the
+  statement's admissibility risk explicitly acknowledged on the page,
+  Mara's interviewing skill draws out Julian Vale's self-incrimination
+  by meeting his unmet need for her understanding. **Mara discloses
+  everything she has — completely, honestly — to Teo and the DA's
+  office; no concealment** (amendment 3, correcting the prior version's
+  legally indefensible unilateral-suppression mechanism). She advocates
+  for prosecutorial discretion toward Palinode's legitimately sheltered
+  identities specifically, informed by Elena's own hard-won judgment;
+  the actual charging decisions remain prosecutorial ones. Julian Vale,
+  Palinode's leadership, its criminal clients, and its financial
+  infrastructure are exposed and pursued; its legitimately sheltered
+  identities are protected through that discretion, not through Mara
+  personally withholding evidence. Adrienne Shaw is confronted directly.
+  Teo faces an IAB inquiry and survives it with a real professional
+  cost. **Mara's own SIU career does not survive intact** — a real, named
+  cost the original version lacked (amendment 3). Mara and Elena reach a
   real, imperfect reconciliation. Mara helps build Elena a new,
   consensual identity — the deliberate, chosen echo of Apartment 4C.
 

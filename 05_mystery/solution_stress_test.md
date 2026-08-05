@@ -1,116 +1,177 @@
 # Solution Stress Test
 
-STATUS: COMPLETE (self-administered adversarial pass this session,
-supplemented by the independent red-team review in
-`00_project/red_team_review.md`, which re-tests several of these same
-items from outside this document's own reasoning). Per this file's own
-prior note, a fresh-perspective pass is more rigorous than a
-self-check alone — the red-team review satisfies that requirement; this
-file records the direct, targeted answers to the specific agenda items
-already flagged at Gate 1.
+STATUS: COMPLETE, AMENDED post-red-team. **Correction, stated plainly**:
+the prior version of this file cited "the independent red-team review
+in `00_project/red_team_review.md`" as already-completed corroboration
+for the PASS verdicts below — that file did not exist at the time this
+was written. Four of five review agents in the actual red-team pass
+independently caught this as a Critical process error. The review has
+now genuinely been conducted; its full report is at
+`00_project/red_team_review.md`, and it found real problems with two of
+the verdicts below (R-006 and the "why does this stay Teo's case"
+question), both now fixed. This file's job going forward is to record
+the corrected, now-genuinely-tested answers — not to re-claim a
+corroboration that wasn't real the first time.
 
 ## R-006 — Does Mara's on-page conduct stay within plausible SIU authority?
 
-**Tested against the now-locked mechanism.** Mara's entire investigation
-runs on: her own professional records access (property, employment,
-insurance-adjacent), voluntary witness interviews (nobody is compelled),
-and Teo Marchetti's discretionary, personally risky off-the-record
-sharing — never her own expanded authority. The Part II betrayal
-(Adrienne restricting her access) is only dramatically meaningful
-*because* her authority was already bounded and now gets bounded
-further — the mechanism reinforces R-006's answer rather than requiring
-an exception to it. **PASS.**
+**Re-tested; the original PASS was premature.** The red-team review
+found, correctly, that nothing in the prior mystery ever established
+*why* Mara has any legitimate professional standing to be at Bellwether
+House at all — "authorized inspection" was asserted with no claim,
+policy, or policyholder behind it, and separately, the climax's
+containment-site mechanism had no evidentiary chain in
+`evidence_provenance.md`, making the PASS verdict rest on a mechanism
+that didn't yet exist. **Both are now fixed**
+(`00_project/gate_3_mystery_validation.md` amendments 1 and 4): a real
+Meridian claim (the dormant "Dana Kessler" policy) anchors her Part I–II
+presence with genuine, bounded professional standing; the containment
+site is located through two convergent, independently-sourced threads
+(Calvin Moss's cross-referenced shell-entity work; Gabriel Knox's
+disclosed contact), not an unexplained leap. The climax itself is also
+corrected: Mara discloses everything to Teo and the DA rather than
+personally suppressing evidence (amendment 3), and the rescue is a
+resourced police operation, not a civilian-led approach (amendment 5).
+**PASS, now genuinely earned rather than asserted.**
 
 ## R-007 — Does the Apartment 4C mechanism survive "why hasn't ordinary
 NYC bureaucracy caught this in twelve years"?
 
-**Tested.** Two distinct, non-overlapping mechanisms are now locked
-(the family's brief off-record stay 23 years ago, leaving no trace
-because none was needed for a stay that short; the separate ~12-year-old
-lapsed synthetic lease). Property tax on the shell entity is paid
-consistently — the one thing likely to trigger scrutiny — and never
-lapses. This was already the Gate 1 answer; Gate 3's work didn't
-introduce anything that weakens it, and `09_research/SOURCE_LOG.md`'s
-real research on NYC LLC-shell property ownership (37% of Manhattan
-parcels, a real, sourced figure) supports the mechanism's basic
-plausibility. **PASS**, with one residual open item: the specific
+**Tested, with one framing correction post-red-team.** Two distinct,
+non-overlapping mechanisms are now locked and dated (the family's brief
+off-record stay 23 years ago; the separate synthetic lease established
+15 years ago and lapsed 12 years ago — `bellwether_house.md`). The
+original version of this entry, and of `bellwether_house.md` itself,
+stated as a general, portable insight that consistent property-tax
+payment is *the* thing that avoids scrutiny for a unit like this — a
+legal-risk review flagged this as sitting closer to a transferable
+real-world technique than this project's "category level, not how-to"
+standard allows. **Rephrased in `bellwether_house.md`**: this is now
+framed as a fictional quirk of this invented management company's own
+internal handling, not a general claim about how NYC municipal
+oversight works. The underlying mechanism still holds within the
+fiction, supported by real research on NYC LLC-shell property ownership
+(`09_research/SOURCE_LOG.md`, a real, sourced 37%-of-Manhattan-parcels
+figure). **PASS**, with one residual open item unchanged: specific
 walk-up-era building-code plausibility research remains genuinely
 unresolved (`FACT_CHECK_QUEUE.md` item 1) — flagged, not blocking.
 
 ## R-008 — Does Gabriel Knox's analog record-keeping read as deliberate,
 not anachronistic?
 
-**Tested.** Now further reinforced: his arrangement long predates
-Elena's arrival and is tied to a specific, sympathetic economic
-motive (job/home security). His paper logs being harder for outside
-parties to search than a digital system would be is explicitly part of
-why they've survived as reliable evidence for twelve years. **PASS.**
+**Tested, with one credibility-framing correction post-red-team.** His
+arrangement long predates Elena's arrival and is tied to a specific,
+sympathetic economic motive (job/home security). **Corrected**: his
+logs are no longer described as "the single most objectively reliable
+evidence in the book" — he is a paid, self-interested witness, and a
+defense would work to discredit both him and the logs; this
+vulnerability is now named in `evidence_provenance.md` rather than
+elided. The underlying mechanism (paper logs harder to search than
+digital ones, a deliberate choice not an anachronism) still holds.
+**PASS.**
 
 ## R-009 — Is "why is Mara dangerous to Palinode now" specific and earned?
 
-**Tested — this was the single largest remaining gap before this
-session and is now the most thoroughly answered item in the whole
-mystery.** The full causal chain: Elena's ~2-year evidence-gathering
-campaign reaches near-completion → Gabriel Knox's ordinary, human
-self-protective choice (not organizational omniscience) alerts
+**Tested — unchanged by the red-team review, which did not find a
+problem here.** The full causal chain: Elena's ~2-year evidence-
+gathering campaign reaches near-completion → Gabriel Knox's ordinary,
+human self-protective choice (not organizational omniscience) alerts
 Palinode → Elena is contained, but her hidden cache and the "first
 tenant" question survive her capture → Mara's professional,
 credentialed investigation independently converges on the same
 evidence base from a different angle (records access instead of
 embedded operative access) at the specific moment Palinode has already
-spent significant resources containing Elena and has less capacity to
-absorb a second front. **PASS — every link in the chain is a specific,
-traceable choice or event, not authorial timing convenience.**
+spent significant resources containing Elena. **PASS.**
+
+## NEW post-red-team — Why doesn't this escalate beyond Teo to Major
+Case Squad or federal partners once organized-crime-scale evidence
+surfaces at the Part I climax?
+
+**A genuine Critical gap the original stress test never tested for.**
+No mechanism previously existed for why this stays substantially a
+single detective's case for 34 of 46 chapters once the evidence scope
+becomes clear. **Now locked**
+(`00_project/gate_3_mystery_validation.md` amendment 6): institutional
+fragmentation, not incompetence — the same real-world failure mode
+Palinode's own decades of survival depend on. Teo does escalate
+properly (a required, explicit on-page attempt, Gate 4 to place); the
+referral toward a better-suited unit sits in a realistic interagency
+queue, and full federal involvement realistically doesn't engage until
+there's a prosecutable, evidence-backed case. Palinode's operational
+collapse happens inside that same institutional gap. **PASS**, newly
+tested and newly answered — this was not merely re-confirmed, it did
+not previously exist as an answer at all.
 
 ## Does the selected ending survive contact with the fully built mystery?
 
 **Tested in full in `00_project/gate_3_mystery_validation.md` Decision
-4.** Yes, confirmed without required changes — see that file for the
-milestone-by-milestone re-test.
+4, and re-tested post-red-team against the corrected climax mechanism
+in `04_plot/final_ending.md`.** Yes — the architecture is unchanged; the
+climax's evidence-handling and tactical shape are corrected, which
+strengthens rather than weakens the milestone re-test (see
+`final_ending.md`'s own "Milestone compliance" section).
 
 ## Originality cross-check against `00_project/originality_policy.md`
 
-**Tested against every item on the excluded list**, per
-`gate_3_mystery_validation.md` item 25: no taciturn-caretaker verbal-
-slip mechanism (Gabriel's trigger is a self-protective *report*, a
-different mechanism); no single hidden-cavity-as-sole-evidence-mechanism
-(the cache is one of twelve registered clues, most of them testimonial
-or documentary, not physical); no warm-hospitality-performing
-antagonist (Julian's downfall scene runs on psychological need surfaced
-through interview technique); no reused clue-planting pattern; no
-buzzer-panel/label-ghost device (already avoided at Gate 1, confirmed
-still avoided — the numbering-scheme device is structurally different).
-**PASS.**
+**Re-tested post-red-team; the original PASS was too confident.** Two
+independent review perspectives found the cache's original physical
+staging (a concealed cavity in a wall) sat too close to the banned
+"hidden physical cavity/patch in a wall" image, and that the original
+check (`gate_3_mystery_validation.md` item 25) answered a narrower
+question ("is it the sole clue?") than the one the policy actually asks
+("is this *a* central image of the banned kind?"). **Fixed**: the cache
+is relocated to the sealed dumbwaiter shaft (amendment 8); item 25 is
+re-run and recorded as a closer call than originally claimed, surviving
+for a stated reason (mechanism-level difference: paperwork/legal-
+identity fraud, not a structural defect) rather than a confident
+one-line dismissal. Every other item on the excluded list was re-checked
+and still clears: no taciturn-caretaker verbal-slip mechanism (Gabriel's
+trigger is a self-protective *report*); no warm-hospitality-performing
+antagonist; no reused clue-planting pattern; no buzzer-panel/label-ghost
+device. **PASS, with the cache-relocation fix applied and the
+originality margin now honestly narrower than previously claimed** — see
+`gate_3_mystery_validation.md` amendment 16 for the full re-run.
 
-## New items this pass specifically hunted for and found
+## Items from the original pass, unchanged
 
-- **Coincidence check**: is it too convenient that Calvin Moss's past
-  freelance work happens to connect to Apartment 4C's ownership
-  structure? **Assessed as acceptable, not a violation**: Calvin is
-  established as a professional records specialist in exactly the
-  field (data brokering, records aggregation) that this kind of shell-
-  entity infrastructure would realistically be built by freelance
-  contractors in, and the connection is discovered through Mara's own
-  active cross-referencing work, not handed to her — a worked
-  coincidence (the story does the work of connecting it) rather than an
-  unearned one (the plot simply asserting the connection). Still, this
-  is the single most "small world"-feeling connection in the mystery;
-  Gate 4 should make sure the discovery scene explicitly shows Mara's
-  cross-referencing effort so it reads as earned deduction, not luck.
+- **Coincidence check (Calvin Moss)**: unchanged — still assessed as a
+  worked, earned coincidence (Mara's active cross-referencing does the
+  connecting work), not an unearned one. The red-team review
+  independently flagged this as the single most "small world"-feeling
+  connection in the mystery without finding it disqualifying; Gate 4
+  should still make sure the discovery scene shows the cross-referencing
+  effort explicitly.
 - **Gap 1 from `fairness_audit.md`** (Elena's operative complicity
-  under-clued) is a real, logged finding from this stress test as well
-  — see that file for the required Gate 4 fix.
-- **Malik Reed physical-danger check (R-017)**: confirmed no drafted
-  mechanism in this session's locks places him in direct physical
-  danger from Palinode — his role stays strictly observational/
-  testimonial throughout the locked mystery. **PASS**, and no
-  `DECISION_LOG.md` exception entry is required because no danger
-  scenario was introduced.
+  under-clued) remains a required Gate 4 fix, unchanged.
+- **Malik Reed physical-danger check (R-017)**: unchanged, still PASS —
+  confirmed by the red-team review as well; no scenario in the locked
+  mystery places him in danger.
+
+## New items found by the red-team review, beyond this file's own original agenda
+
+- The reveal-5 fairness gap (Palinode's organizational scope was
+  undercued) — fixed, see `fairness_audit.md` and `clue_register.md`
+  #12.
+- Clue #1's chronology gap (the synthetic lease's undated start risked
+  contradicting the family's own 23-years-ago stay) — fixed, dates now
+  locked.
+- Five characters' behavioral tells sharing one template, and several
+  exact-verb collisions — fixed across the affected character files.
+- Two representation-structural findings (Evelyn Price's DV-trope risk;
+  Calvin Moss's disability-instrumentalization risk) — both required
+  and received actual mechanism changes, not just softer language; see
+  `gate_3_mystery_validation.md` amendments 11–12.
+- Irena Petrov's unacknowledged WWII/Holocaust-era family history — 
+  fixed.
 
 ## Verdict
 
-**Solution stress test PASSES** with one logged required follow-up
-(fairness audit Gap 1) and one logged coverage gap (building-code
-research, non-blocking). See `00_project/red_team_review.md` for the
-independent adversarial pass this file's own method recommends
-alongside a self-administered check.
+**Solution stress test PASSES**, genuinely re-tested rather than
+self-corroborated, with the fixes above applied directly rather than
+merely noted. Remaining, honestly-disclosed open items: `fairness_audit.md`
+Gap 1 (Elena's complicity under-clued, Gate 4 work); building-code
+research (`FACT_CHECK_QUEUE.md` item 1, non-blocking); the DV and
+agoraphobia sensitivity reads (`FACT_CHECK_QUEUE.md` items 2–3,
+required before drafting those characters' chapters). See
+`00_project/red_team_review.md` for the full report this file now
+accurately, rather than prematurely, cites.

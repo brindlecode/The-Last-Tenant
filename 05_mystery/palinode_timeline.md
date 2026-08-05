@@ -41,13 +41,17 @@ history, and should not be conflated in any future drafting:
    housing for the Marsh/Voss family, lasting weeks to a few months,
    leaving no lease trace because none was needed for a stay this
    short.
-2. **~12 years before story present**: a separate, unconnected
-   synthetic/deceased-identity paper lease (held via a Palinode-linked
-   shell entity) formally lapses — the actual origin of the unit's
-   official "vacant twelve years" record (`bellwether_house.md`). Gabriel
-   Knox's paid-complicity arrangement dates from this second mechanism,
-   not the first — he has no knowledge of or connection to the Marsh
-   family's history in the unit.
+2. **Established 15 years before story present, lapsed 12 years before
+   story present** (dates now locked, post-red-team, closing a
+   chronology gap that previously left this mechanism undated relative
+   to the family's own history): a separate, unconnected synthetic/
+   deceased-identity paper lease (held via a Palinode-linked shell
+   entity) — the actual origin of the unit's official "vacant twelve
+   years" record (`bellwether_house.md`). Established a clean 8 years
+   after the family's departure; non-overlapping with their earlier
+   stay. Gabriel Knox's paid-complicity arrangement dates from around
+   this mechanism's establishment, not the first — he has no knowledge
+   of or connection to the Marsh family's history in the unit.
 
 **Resolved**: Bellwether House is not necessarily Palinode's single
 most active site organization-wide — the network is explicitly
@@ -74,7 +78,7 @@ decades avoiding) and with Julian's own genuinely personal relationship
 to both sisters. Full mechanism: `00_project/gate_3_mystery_validation.md`
 Decision 3.
 
-## Response to Mara — RESOLVED
+## Response to Mara — RESOLVED, AMENDED post-red-team
 
 Once Mara's investigation gets close enough to alarm Palinode (roughly
 the 60–70% structural mark), its realistic response is to activate its
@@ -84,8 +88,20 @@ most bureaucratically grounded response available, consistent with
 `palinode_system.md`'s hard realism constraints: no one moves against
 Mara physically; instead, Palinode-linked pressure reaches someone
 already positioned to cost Mara her institutional standing through
-entirely legitimate-looking channels. This is the Part II betrayal. Full
-mechanism: `gate_3_mystery_validation.md` Decision 3, item 9.
+entirely legitimate-looking channels. **Important nuance, NEW post-red-
+team** (`gate_3_mystery_validation.md` amendment 2): Adrienne is not a
+passive or newly-activated asset at this point — she noticed the
+institutional risk of Mara's investigation weeks earlier and had been
+actively shielding her from it, at real cost. Palinode's pressure
+doesn't create her institutional leverage over Mara; it reverses which
+side of an already-existing lever she's standing on. This is a stronger,
+more specific version of "activating a compromised asset" than simply
+triggering a dormant one, and closes a High finding that the original
+version's institutional detection path was too thin (resting on
+Adrienne alone noticing nothing until pressured) and her reversal too
+late to be plausible for someone this institutionally savvy. This is the
+Part II betrayal. Full mechanism: `gate_3_mystery_validation.md`
+Decision 3, item 9 and amendment 2.
 
 As Mara continues closing in through Part III without institutional
 cover, Palinode's containment calculus around Elena grows genuinely

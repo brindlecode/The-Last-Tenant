@@ -69,9 +69,16 @@ in `00_project/gate_2_character_validation.md`.
   misrepresentation" or "pattern of loss" in contexts where they're
   slightly, tellingly wrong.
 - **Private vocabulary**: SIU/fraud-investigation jargon — claimant,
-  material misrepresentation, pattern of loss, red-flag indicator,
-  documented inconsistency. *Research flag*: verify this vocabulary
-  against real insurance-SIU practice before heavy use in dialogue —
+  material misrepresentation, pattern of loss, documented inconsistency.
+  **Amended post-red-team**: "red-flag indicator" removed from this
+  list — it sits too close to `01_author_bible/banned_cliches.md`'s ban
+  on a character's internal noticing-vocabulary being verb-anchored on
+  "flagging." If a term for this concept is needed in dialogue or a
+  document quotation, use "documented inconsistency" or "material
+  misrepresentation" instead; never let "flag/flagging" become her
+  internal narration verb for noticing something. *Research flag*:
+  verify this vocabulary against real insurance-SIU practice before
+  heavy use in dialogue —
   queued in `09_research/FACT_CHECK_QUEUE.md`.
 - **Contradictions**: The most disciplined investigator in her
   professional life is the person who let exactly one relationship go

@@ -165,18 +165,25 @@ meaning** · **who notices / who misreads it and why** · **payoff
 ## 9. Evelyn Price's clinical evidence (vitamins, appointment cards, blanket)
 
 - **First appearance**: Part I.
-- **Surface meaning**: Proof "Lena Hart" was pregnant and fleeing an
-  abusive partner.
+- **Surface meaning**: Proof "Lena Hart" was pregnant and fleeing danger.
 - **True meaning**: The physical evidence and the pregnancy are both
-  real; only the "abusive partner" framing is persona, not fact
-  (`gate_3_mystery_validation.md` item 18).
+  real; only the specific threat framing ("fleeing Halcyon Circle," a
+  coercive high-control group — amended post-red-team from the original
+  "abusive partner" framing, see
+  `gate_3_mystery_validation.md` amendment 11) is persona, not fact.
 - **Misread by**: Evelyn and, initially, Mara — both reasonably, since
   the evidence is genuinely clinical and credible, not fabricated.
 - **Payoff**: Part III, when the full truth of the loss and why it was
   folded into the persona is disclosed, ideally in a scene that lets
-  Evelyn's devastation and vindication coexist, per her arc requirement.
+  Evelyn's devastation and vindication coexist, per her arc requirement
+  — see `evelyn_price.md`'s amended framing note: this must not land as
+  "Evelyn should have doubted her more."
 - **Fairness check**: PASS — no false physical evidence is ever shown;
-  only its narrative frame changes.
+  only its narrative frame changes. Per the red-team review, Gate 4
+  should plant an earlier, oblique signal (alongside the Renata Kucera
+  business card, see `supporting_cast.md`) that something about the
+  threat narrative isn't quite what it appears, rather than holding this
+  entirely for Part III.
 
 ## 10. Malik Reed's service-stairwell sightings
 
@@ -197,7 +204,11 @@ meaning** · **who notices / who misreads it and why** · **payoff
 
 ## 11. The hidden cache and envelope ("You were the first tenant")
 
-- **First appearance**: Part I climax.
+- **First appearance**: Part I climax. **Physical location amended
+  post-red-team**: the sealed, disused dumbwaiter shaft accessible from
+  Apartment 4C, not a wall cavity — see
+  `04_plot/opening_options.md` and `gate_3_mystery_validation.md`
+  amendment 8.
 - **Surface meaning**: Proof of multiple false identities, and a
   cryptic, unexplained line.
 - **True meaning**: Elena's own evidence archive and a prepared
@@ -215,11 +226,50 @@ meaning** · **who notices / who misreads it and why** · **payoff
   clue's meaning is withheld past the point the reader could reasonably
   piece it together from what's already on the page; `fairness_audit.md`
   below tracks this specifically.
+- **Required reminder beats, NEW post-red-team** (this clue's open span —
+  Part I climax to Part III payoff, roughly 70% of the book — was
+  flagged as needing scheduled reminders, not just a density-map note):
+  at least one Part I-closing beat (Mara re-reading the envelope's line
+  before Part II opens) and at least two further beats across Part II,
+  each tied to a new piece of context that re-contextualizes the line
+  slightly without fully explaining it (e.g., once she learns "Voss" is
+  assigned, not birth; again once Irena's memory is confirmed as the
+  mother). Gate 4 must place these at the chapter level; their existence
+  in the sequencing is now locked here, not left to the density map's
+  prose note alone.
 
-## 12. Peter Marsh's buried regulatory complaint
+## 12. Elena's investigative notes — organizational scope, NEW post-red-team
 
-- **First appearance**: Part III (new evidence item, added this
-  session — see `evidence_provenance.md`).
+- **First appearance**: Part I climax, inside the relocated cache
+  (clue #11) — a distinct clue in its own right, not a sub-detail of
+  #11, because it does different fair-play work.
+- **Surface meaning**: Elena's own handwritten research notes and
+  partial financial records, found alongside the identity documents.
+- **True meaning**: This is what gives Mara — and the reader — the fair,
+  direct leap from "one family's manufactured identity" (a single
+  apartment, a single set of documents) to "a whole organization with a
+  name, a founder, and other clients." The notes include Elena's own
+  reference to "Palinode" and "the Continuity Group" by name (learned
+  during her operative period) and evidence the pattern extends beyond
+  the Voss family specifically. **Closes a Critical fairness-audit gap**:
+  the prior register had no clue actually delivering organizational
+  scope — reveal 5 in `reveal_ladder.md` was undercued. See
+  `gate_3_mystery_validation.md` amendment 9 and
+  `evidence_provenance.md`.
+- **Misread by**: N/A — this is the clue that resolves the earlier,
+  narrower misreading (that Elena acted alone, for reasons of her own)
+  rather than itself being misread.
+- **Payoff**: Part II, once Mara has had time to research and confirm
+  what the notes reference — not instantaneous at discovery, which would
+  compress reveal 5 into reveal 4 and undercut both.
+- **Fairness check**: PASS — the notes are Elena's own genuine work
+  product, not an authorial info-dump; their existence is fully
+  consistent with her established ~2-year evidence-gathering campaign.
+
+## 13. Peter Marsh's buried regulatory complaint
+
+- **First appearance**: Part III (new evidence item, added at Gate 3
+  closure — see `evidence_provenance.md`).
 - **Surface meaning**: An old, dropped complaint, unrelated to the
   present case at first glance.
 - **True meaning**: Independent, document-based confirmation of the
@@ -230,6 +280,33 @@ meaning** · **who notices / who misreads it and why** · **payoff
   Anna Voss's own direct disclosure.
 - **Fairness check**: PASS — sourced from real, researched public-
   records practice (`SOURCE_LOG.md`).
+
+## 14. The Dana Kessler Meridian policy, NEW post-red-team
+
+- **First appearance**: Part I, before the Bellwether House interviews
+  begin — this is what sends Mara there with genuine professional
+  standing in the first place.
+- **Surface meaning**: An obscure, lapsed small life-insurance policy
+  flagged by routine SIU compliance screening.
+- **True meaning**: The policy is in the name of "Dana Kessler," one of
+  Elena's constructed identities — Meridian, Mara's own employer,
+  unknowingly insured her sister's fake identity years earlier. This is
+  the claim anchor that gives Mara real, bounded professional authority
+  to be at Bellwether House at all — closing a Critical finding that the
+  original mystery had Mara operating there with no stated authorization
+  mechanism. See `gate_3_mystery_validation.md` amendment 1.
+- **Misread by**: N/A — this clue's job is to establish standing, not to
+  mislead.
+- **Payoff**: Its full significance (that it's Elena's own alias) lands
+  the moment Mara connects the policyholder to the missing-person case,
+  early in Part I — an immediate payoff, unlike this register's other,
+  slower-burning clues.
+- **Fairness check**: PASS — grounded in real SIU statutory practice
+  (`09_research/SOURCE_LOG.md` Entry 4) and gives Mara's presence at
+  Bellwether House a genuine professional basis throughout Part I and
+  much of Part II, with an explicit, visible boundary (Gate 4 to
+  dramatize) where her legitimate claim-authority ends and her personal
+  involvement, unofficially, begins.
 
 ## Standing rule
 

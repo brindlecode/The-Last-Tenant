@@ -159,14 +159,26 @@ impact (Low/Med/High) — mitigation / owning gate — status.
   the standing rule; every Palinode-methods scene gets checked against it
   at drafting time. — Status: open, standing guard rail for all future
   work, not a one-time check.
-- **R-016** — Domestic-violence relocation storyline (Evelyn Price's
-  account of "Lena Hart") risks misrepresenting how DV relocation and
-  protective services actually work if under-researched, which could
-  read as either inaccurate or (worse) inadvertently unsafe-sounding
-  advice to a reader in a similar situation. — Likelihood: Med — Impact:
-  High — Mitigation: dedicated research required
-  (`09_research/FACT_CHECK_QUEUE.md`); a sensitivity read is recommended
-  before this storyline is drafted, not just before publication. —
+- **R-016** — AMENDED post-red-team (`00_project/red_team_review.md`,
+  Perspective 9): the storyline formerly described here as domestic-
+  violence-relocation-based (Evelyn Price's account of "Lena Hart") was
+  found to structurally reproduce the real-world "DV survivors fabricate
+  claims" trope regardless of framing, and has been restructured to a
+  coercive-high-control-group narrative instead
+  (`gate_3_mystery_validation.md` amendment 11) — this risk entry is
+  retained and retitled rather than closed, since the underlying concern
+  (misrepresenting a real, sensitive category of danger if under-
+  researched) still fully applies to the new topic, and Jonah Bell's
+  storyline still involves real DV clients. Risks misrepresenting how
+  coercive-group exit support and DV-adjacent legal advocacy actually
+  work if under-researched, which could read as inaccurate or
+  inadvertently unsafe-sounding to a reader in a similar situation. —
+  Likelihood: Med — Impact: High — Mitigation: dedicated research
+  required (`09_research/FACT_CHECK_QUEUE.md` items 3, 3a); a
+  sensitivity read is **required**, not merely recommended (upgraded
+  post-red-team), before this storyline is drafted, not just before
+  publication — a specific reviewer type and pass/fail criteria remain
+  to be named (item 4a). —
   Status: open, high priority for Gate 2/3.
 - **R-017** — A minor character (Malik Reed, 12–14) exists in proximity
   to a missing-person/criminal-network narrative. Risk of the child being

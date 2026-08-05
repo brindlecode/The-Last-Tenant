@@ -37,12 +37,13 @@ them.
 ## Current state
 
 See `PROJECT_STATUS.md` for the authoritative, up-to-date answer. As of
-this repository's founding commit: **Gate 0 (foundation) and Gate 1
-(concept validation) are complete. No manuscript prose exists yet.**
-Gates 2–5 (character, mystery, structure, and pre-draft red-team
-validation) are seeded from the originating project brief but not yet
-formally validated — see each relevant file's own status line before
-treating anything beyond Gate 1 as locked.
+2026-08-05: **Gates 0–3 (foundation, concept validation, character
+validation, mystery validation) are complete, the latter two closed
+after a genuine adversarial red-team review whose findings were fixed
+directly into the canonical files. No manuscript prose exists yet.**
+Gates 4–5 (structure and pre-draft red-team validation) have not been
+started, per explicit instruction — see `NEXT_ACTION.md` for the exact
+next step.
 
 ## Why this repository looks like this
 

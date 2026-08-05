@@ -1,6 +1,369 @@
 # Gate 3 — Mystery Validation
 
-STATUS: COMPLETE. This is the authoritative record of Gate 3, mirroring
+STATUS: COMPLETE, AS AMENDED. An adversarial red-team review (eight
+agents, ten professional perspectives — full report:
+`00_project/red_team_review.md`) found real, load-bearing gaps in the
+locked mystery below. Per this file's own no-silent-edit convention
+(inherited from `gate_1_concept_validation.md`), the original text below
+is preserved unedited; every place the red-team review changed a locked
+answer is recorded here, first, before the original text, so a reader
+encounters the correction before any superseded material. **Read this
+amendment section before trusting any specific fact in the body below.**
+
+## POST-RED-TEAM AMENDMENTS (supersede the noted parts of Decisions 2–4 and the ~25-question checklist)
+
+1. **Claim anchor for Mara's access, NEW — closes a Critical finding.**
+   Nothing in the original text below ever established *why* Mara has
+   any legitimate professional standing to investigate Bellwether House
+   at all — "authorized inspection" was asserted three times with no
+   claim, policy, or policyholder behind it. **Now locked**: Meridian
+   Assurance Group holds a small life-insurance policy in the name of
+   "Dana Kessler" (one of Elena's constructed identities, arranged years
+   earlier as part of Jonah Bell's client-adjacent legal/financial
+   safety-planning work — a real, plausible thing a family-law
+   practice helps a client set up). When "Dana Kessler" goes dormant
+   (no premium activity, no contact) at the same time Elena disappears,
+   an automated lapse/irregularity flag on this obscure policy crosses
+   Mara's SIU desk in the ordinary course of her actual job — small
+   policies with sudden irregular gaps are exactly the pattern her unit
+   screens for. Mara, doing unrelated, legitimate work, pulls the file
+   and recognizes the listed property address as Bellwether House — the
+   same building Elena was last confirmed at. **This is what gives Mara
+   a real claim file and genuine professional standing to request
+   interviews and an authorized inspection tied to *that* claim** for
+   Part I and much of Part II — not a personal errand dressed in
+   professional language. It also sharpens the book's irony (Mara's own
+   employer unknowingly insured her sister's fake identity) and gives
+   Gate 4 a clean, visible boundary: everything Mara does that's
+   traceable to the Dana Kessler claim is professionally grounded;
+   everything she does once that claim's scope is exhausted (finding
+   Elena personally, going to Julian Vale) is a visible, acknowledged
+   overstep with real professional cost — which is the source of real
+   friction, not an unaddressed hole. Propagated to
+   `05_mystery/evidence_provenance.md`, `objective_truth_timeline.md`.
+
+2. **Adrienne Shaw's arc, REVISED — closes two High findings (institutional
+   realism was too thin; her Part II turn was implausibly late and
+   wrongly motivated).** Original Decision 3/item 9 below is *not wrong*
+   about her final knowledge state, but was incomplete about her Part II
+   behavior. **Now locked**: Adrienne — savvy, thirty-year institutional
+   operator that she is — notices an internal compliance flag on Mara's
+   unusual file-access pattern (tied to the Dana Kessler claim, above)
+   within the first two or three weeks, well before any Palinode-linked
+   pressure ever reaches her. She does **not** shut Mara down. She
+   actively, warmly, quietly protects her — slow-walking the compliance
+   review, spending real institutional capital to keep the file open,
+   vouching for Mara internally — consistent with, and deepening, her
+   established genuine mentorship. **Only once Palinode-linked pressure
+   reaches Adrienne personally** (a reminder of exactly what she has to
+   lose) does she reverse: the specific grounds she then cites to
+   restrict Mara are the *same* compliance flag she'd been shielding her
+   from all along, now weaponized instead of suppressed. This is a
+   strictly stronger, more devastating version of the betrayal (she was
+   spending herself to protect Mara, then chose herself over her) and it
+   answers the institutional-realism gap directly: there is now a real,
+   internal, documented detection path independent of Palinode, and
+   Adrienne's choice is about which side of it she's on, twice, not
+   whether it exists. Propagated to `03_characters/adrienne_shaw.md`,
+   `05_mystery/palinode_timeline.md`.
+
+3. **The climax's evidence handling, REVISED — closes a Critical finding
+   raised independently by two review perspectives.** The original
+   Decision 4/`final_ending.md` language ("Mara's own selective, careful
+   handling of what she turns over... not law enforcement's discretion")
+   describes a civilian unilaterally suppressing evidence of ongoing
+   federal-scale identity-fraud crimes — not legally defensible, and in
+   tension with a protagonist whose entire arc is about the cost of
+   verification without honesty. **Now locked**: Mara discloses
+   everything, completely and honestly, to Teo Marchetti and, through
+   him, to the DA's office — no concealment, no unilateral withholding.
+   Her "selective exposure" is exercised as **advocacy**, not
+   suppression: she provides full context and testimony distinguishing
+   Palinode's criminal clients (who are fully, deliberately pursued)
+   from people it genuinely sheltered (for whom she advocates
+   prosecutorial discretion and connects to legitimate victim-support
+   pathways) — the actual decision about who is charged remains a
+   prosecutorial one, informed by her disclosure, not executed by her
+   personally. This is legally sound (full disclosure is not a crime)
+   and preserves the thematic payoff (trust exercised through
+   truth-telling, not through unilateral concealment — which is the
+   book's actual thematic argument, more precisely realized than the
+   original version). It also **finally gives the ending a real, named
+   cost** the review correctly flagged as missing: advocating for
+   specific people connected to her own personal investigation is
+   itself a conflict-of-interest that Meridian treats seriously — Mara's
+   SIU career does not survive this book intact, on top of Adrienne's
+   Part II restriction. Propagated to `04_plot/final_ending.md`.
+
+4. **Locating Elena's containment site, NEW — closes a Critical finding
+   (the R-006 "PASS" rested on a climax mechanism with no evidentiary
+   chain anywhere in Gate 3).** **Now locked**: two independently-
+   sourced threads converge, consistent with the "multiple independent
+   confirmations" principle already established as this mystery's own
+   method. (a) Calvin Moss, prompted by Mara once she understands his
+   past work touched Apartment 4C's shell-entity infrastructure,
+   cross-references that same infrastructure for a second, sibling
+   property under related ownership. (b) Gabriel Knox, in his arc's
+   "active choice to help," discloses the identity of the person who
+   originally paid him — a real, human lead that independently narrows
+   the same candidate property. Mara and Teo bring this jointly to Teo's
+   supervisor as a specific, credible lead tied to a probable unlawful-
+   imprisonment situation — the kind of specific, high-priority
+   information that gets real resourcing even from an overloaded
+   department (see amendment 6, below, on why the case stayed
+   substantially Teo's until this point). Propagated to
+   `05_mystery/evidence_provenance.md`, `04_plot/final_ending.md`.
+
+5. **The climax's tactical shape, REVISED — closes a Critical finding
+   (an unresourced civilian-led approach to a guarded location would not
+   read as plausible).** **Now locked**: the rescue and the Julian
+   confrontation are two separate, sequentially-ordered beats (already
+   the working recommendation in `final_ending.md`, now firmed up for
+   this reason specifically, not just pacing). The rescue, once the
+   containment site is identified (amendment 4), is a properly resourced
+   police operation — Mara provides intelligence and identification, she
+   does not lead or participate in an armed approach. The Julian
+   confrontation happens afterward, in a controlled setting (he is
+   approached at his home or comes in voluntarily, with police present),
+   with Mara participating in a civilian-witness/consulting capacity —
+   and the story now **acknowledges on the page** (Gate 4 to place the
+   beat; locked as required content, not yet as prose) that Teo or a DA
+   contact explicitly flags the admissibility risk of what Julian says
+   in that setting, converting a previously invisible plausibility
+   assumption into a piece of real, dramatized tension. Propagated to
+   `04_plot/final_ending.md`.
+
+6. **Why this stays substantially Teo's case long enough for the
+   timeline to work, NEW — closes a Critical finding (no answer existed
+   for why Major Case Squad or federal partners don't take over once
+   organized-crime-scale evidence surfaces at the Part I climax).**
+   **Now locked**: institutional fragmentation, not incompetence or
+   authorial convenience — the same real-world failure mode Palinode's
+   own decades of survival depend on. Teo does escalate properly: he
+   flags the Part I climax evidence to his supervisor, and the
+   financial-fraud/property dimension is referred toward a unit better
+   suited to it. That referral sits in a real, realistic interagency
+   queue — different specialized units within a large department
+   routinely do not communicate quickly, and full federal involvement
+   (FBI/financial-crimes partners) realistically doesn't engage until
+   there's a prosecutable, evidence-backed case, not from a missing-
+   person report alone. Palinode's operational collapse happens inside
+   that same institutional gap, not because nobody tried to escalate —
+   a thematically apt convergence (the story's antagonist and its
+   nominal solution are both shaped by the same systemic fragmentation).
+   Teo should have one explicit, on-page moment of attempting proper
+   escalation (Gate 4 to place) so this doesn't read as an oversight.
+   Propagated to `05_mystery/solution_stress_test.md`.
+
+7. **Teo Marchetti's professional outcome, NEW — closes a High finding
+   (his stated professional risk was never paid off anywhere).** **Now
+   locked, at the same depth as Adrienne's ending**: Teo faces an
+   Internal Affairs inquiry over his off-the-record disclosures and his
+   role in the case's resolution. He survives it, but not unscathed —
+   a formal reprimand in his file and being passed over for a promotion
+   he'd been positioning for. The department's institutional incentive
+   not to make an example of the detective who helped break a decades-
+   old homicide and a major fraud network is real and is what keeps this
+   survivable; it is not consequence-free. Propagated to
+   `03_characters/investigative_counterpart.md`, which also reconciles
+   the previously-contradictory "bends procedure exactly once" language
+   against the ongoing, smaller, individually-defensible professional
+   courtesy he extends throughout — see that file.
+
+8. **Apartment 4C's evidence cache, RELOCATED — closes a Critical
+   originality finding raised independently by two review perspectives.**
+   The cache's physical staging as "a concealed cavity" behind "an
+   inconsistency in a wall or fixture" (`04_plot/opening_options.md`
+   Option 1's original language) sits too close to
+   `01_author_bible/banned_cliches.md`'s explicit ban on "a single hidden
+   physical cavity/patch in a wall functioning as the central physical-
+   evidence mechanism the whole mystery pivots on" — this session's own
+   prior origination-check (item 25, below) cleared it by answering a
+   narrower question ("is it the *sole* clue?") than the one the policy
+   actually asks ("is this *a* central image of the banned kind?"),
+   which on honest re-examination, it is. **Now locked**: the cache is
+   hidden inside Apartment 4C's **sealed, disused dumbwaiter shaft** —
+   already-established building architecture
+   (`02_novel_bible/bellwether_house.md`), structurally and imagistically
+   distinct from a wall cavity, and with its own earned thematic
+   resonance (an old vertical channel that once carried messages between
+   floors, repurposed one last time to carry a message from Elena to
+   Mara) that a plain wall patch doesn't have. Propagated to
+   `04_plot/opening_options.md`, `05_mystery/clue_register.md` #11,
+   `05_mystery/evidence_provenance.md`, `02_novel_bible/bellwether_house.md`.
+
+9. **A new, fairly-clued path to Palinode's organizational scope, NEW —
+   closes a Critical fairness-audit finding.** `05_mystery/fairness_audit.md`'s
+   reveal-by-reveal table had no row for reveal 5 (Palinode's existence
+   as an organization, not just "Elena built several false identities")
+   — the most foundational inferential leap in the ladder, on which five
+   other reveals explicitly depend, and no clue in the register actually
+   delivered it. **Now locked**: the relocated cache (amendment 8)
+   contains, alongside the identity documents, a set of Elena's own
+   investigative notes and partial financial records from her ~2-year
+   campaign — including her own handwritten reference to "Palinode" and
+   "the Continuity Group" by name, and evidence the pattern extends
+   beyond the Voss family specifically. This is what gives Mara (and the
+   reader) the fair, direct leap from "one family's manufactured
+   identity" to "a whole organization," and also resolves
+   `evidence_provenance.md`'s previously-open "decide exact document
+   contents beyond the confirmed envelope line" item. Propagated to
+   `05_mystery/clue_register.md`, `evidence_provenance.md`,
+   `fairness_audit.md`.
+
+10. **The synthetic lease's start date, NOW LOCKED — closes a High
+    fairness finding (an undated gap risked an unstated contradiction
+    with the family's own 23-years-ago stay).** **Now locked**: the
+    Apartment 4C synthetic/deceased-identity lease (the mechanism behind
+    the "vacant twelve years" record) was established **15 years before
+    story present** — a clean 8-year gap after the Marsh/Voss family's
+    departure (23 years ago), during which the unit had ordinary,
+    unremarkable turnover, before the shell entity acquired the lease.
+    It lapsed 12 years before story present (a 3-year term). This is
+    non-overlapping and non-contradictory with the family's own history
+    in the unit. Propagated to `05_mystery/objective_truth_timeline.md`,
+    `palinode_timeline.md`, `02_novel_bible/bellwether_house.md`.
+
+11. **Evelyn Price's storyline ("Lena Hart"), STRUCTURALLY REVISED —
+    closes a Critical representation finding.** The original mechanism
+    (item 18, below) — a fabricated *abusive-partner* narrative, folded
+    around a real pregnancy loss — structurally reproduces the specific,
+    real-world-damaging "DV survivors fabricate their claims" trope,
+    independent of how sympathetically it's framed, and directly
+    conflicts with this project's own genre-contract promise that no
+    witness account is a lie to catch. **Now locked, decoupled from DV
+    entirely**: "Lena Hart" was fleeing a coercive, high-control
+    group (a fictional wellness/community organization, invented for
+    this book, not modeled on any real one) that used financial control,
+    surveillance, and social isolation against members who tried to
+    leave — a real, documented, serious safety category, and one
+    `02_novel_bible/palinode_system.md` already flagged as Palinode's
+    *preferred* documented-protective-outcome category before this
+    session built it out. The pregnancy loss remains real, and remains
+    something Elena folded into the persona rather than disclosed — but
+    it is no longer nested inside a fabricated claim of intimate-partner
+    violence. This removes the trope-reproduction risk, removes the
+    "real DV resource wasn't enough" risk in the Renata Kucera beat
+    (now reframed as a coercive-group exit-support contact), and reduces
+    DV-adjacent-fabrication concentration in the witness cast from two
+    relationships to zero (Jonah Bell's storyline involves *real* DV
+    clients receiving *genuine* work from someone with fabricated
+    credentials — a materially different, less fraught structure,
+    reviewed and left intact with one small tightening, item 14 below).
+    Propagated to `03_characters/evelyn_price.md`,
+    `03_characters/supporting_cast.md` (Renata Kucera),
+    `05_mystery/elena_timeline.md`, `clue_register.md` #9,
+    `evidence_provenance.md`. **This remains explicitly PROVISIONAL**,
+    like all sensitive-storyline content, pending the dedicated
+    sensitivity read `FACT_CHECK_QUEUE.md` still requires before
+    drafting — the structural change resolves the trope-reproduction
+    risk; it does not substitute for that read.
+
+12. **Calvin Moss, STRUCTURALLY REVISED — closes two High
+    instrumentalization findings, independently corroborated.** His
+    plot-critical skill set was causally derived from his agoraphobia's
+    onset in the original file (self-taught remote work "completed
+    entirely online after his agoraphobia onset") — the classic
+    instrumentalized-disability pattern the file's stated tone
+    ("competence, not tragedy") didn't actually structurally prevent.
+    **Now locked**: Calvin was already working in records/data research
+    in his twenties, **before** his agoraphobia's onset in his early
+    thirties — the onset changed *how* he works (fully remote) and
+    deepened his specialization, not *why* he does this work or *why*
+    he's good at it. His usefulness to the mystery now survives a
+    version of him without the disability, which it did not before.
+    Separately: "agoraphobia/mobility limitation" is retired as a paired
+    descriptor throughout the repository — it conflates an anxiety
+    disorder with a physical disability, a conflation that had been
+    baked into this project's own official Gate 2 categorization, not
+    just incidental phrasing. His condition's onset is now described as
+    a gradual escalation (an initial unexplained panic episode, followed
+    by recurring episodes and widening avoidance over roughly two years)
+    rather than one clean, tidy causal incident. His growth beat is now
+    explicitly locked as relational/emotional only — letting Mara know
+    something real about himself — not physical-space exposure, closing
+    the "literally or figuratively" hedge that left a cure-arc-adjacent
+    resolution open. Propagated to `03_characters/calvin_moss.md`,
+    `00_project/gate_2_character_validation.md`.
+
+13. **Irena Petrov's family history, COMPLETED — closes a High
+    authenticity finding.** Her file's own numbers place her birth in
+    1943 — in occupied Odesa, during the near-destruction of the city's
+    Jewish community, a fact her original file entirely omitted despite
+    claiming research-grounded specificity. **Now locked**: Irena's
+    family evacuated from Odesa before the Romanian/German occupation
+    began (October 1941) — a real, well-documented survival pattern,
+    most commonly to Central Asia — and Irena was born in 1943 during
+    that evacuation, not in occupied Odesa itself. The family returned
+    to Odesa after liberation (1944), where Irena actually grew up, as
+    her file already stated. Extended family who could not or did not
+    evacuate were lost — never dwelt on at length, but real, acknowledged
+    canon now, not silent. Separately, her path into mathematics
+    training now specifically reflects the well-documented discriminatory
+    admissions practices (harder, sometimes deliberately unfair oral
+    entrance examinations) Jewish applicants faced in Soviet mathematics
+    education — sharpening, rather than just asserting, why her later
+    U.S. credential non-recognition lands with real irony. Propagated to
+    `03_characters/irena_petrov.md`.
+
+14. **Jonah Bell, LIGHTLY TIGHTENED — closes a Medium finding.** Added
+    one clarifying line: Jonah independently verified the *substance* of
+    "Dana Kessler's" legal research before relying on it for real,
+    vulnerable clients — not merely trusting it because it looked
+    competent — so the intended takeaway is a defensible, specific
+    professional judgment call, not a general endorsement of skipping
+    vetting in DV-adjacent legal work. Propagated to
+    `03_characters/jonah_bell.md`.
+
+15. **Character behavioral-tell collisions, FIXED — closes a Critical
+    craft finding.** Five characters' signature tells shared one
+    template ("becomes *more* [controlled/warm], not [expected], exactly
+    when threatened") — a real house tic the Gate 2 cross-file audit
+    checked facts and dates for contradiction but never checked craft
+    mechanics for repetition. The intentional Julian/Elena "rhyme" is
+    kept (it's earned and explicitly thematic); Adrienne's, Jonah's, and
+    Rina's tells are rebuilt on different mechanisms, and the exact-verb
+    collisions ("squares" ×3, "goes quiet" ×2, "taps" ×2) are resolved.
+    Propagated to `03_characters/adrienne_shaw.md`, `jonah_bell.md`,
+    `rina_cho.md`, `investigative_counterpart.md`, `malik_reed.md`.
+
+16. **Item 25's originality self-check, RE-RUN — the original check
+    (below) tested a narrower question than `originality_policy.md`
+    actually asks.** It confirmed the cache wasn't the *sole* evidence
+    mechanism; it never re-tested whether Apartment 4C functions as *a*
+    central image of "a building that physically conceals the truth of
+    what happened to a missing woman," which — regardless of the
+    cache's relocation within it (amendment 8) — the unit still does,
+    by design, and always will, since that's the premise's own
+    architecture. **Assessment on honest re-run**: this is a closer
+    question than item 25 treated it as, but survives, for a reason
+    item 25 didn't state: the excluded material bans a building
+    concealing the truth *via a hidden construction defect executed the
+    way that branch executed it* — a discoverable physical flaw in the
+    structure itself. This book's version is categorically different in
+    *mechanism* (paperwork/legal-identity fraud, not a structural
+    defect) even where it rhymes in *image* (a room holds evidence) —
+    and per `originality_policy.md` itself, mechanism-level difference is
+    exactly what the policy's own Bellwether-House-specific guidance
+    requires ("must arise from *this* book's premise... not be a reskin
+    of the fire-safety mechanism"), which this now more clearly does
+    with the wall-cavity device removed. Recorded here as a closer call
+    than originally claimed, not a clean pass — Gate 5 (when it runs)
+    should re-test this specifically rather than inherit either verdict
+    uncritically.
+
+17. **Every "PASS"/"Clear"/"COMPLETE" verdict in this file and in
+    `05_mystery/solution_stress_test.md` that cited an "independent
+    red-team review" at `00_project/red_team_review.md` did so before
+    that file existed** — a genuine process error, caught independently
+    by four of five review agents. That review has now actually been
+    conducted; its full report is at `00_project/red_team_review.md`,
+    and every citation to it elsewhere in this repository is now
+    accurate rather than forward-referenced. `quality_gates.md`'s master
+    checklist, which had not been updated to reflect Gate 2/3 closure at
+    all, is also now corrected.
+
+This is the authoritative record of Gate 3, mirroring
 `gate_1_concept_validation.md`'s role and method for this gate. Working
 locks recorded here are treated as **confidential-adjacent production
 material** per `CLAUDE.md` — nothing below may appear in

@@ -118,34 +118,48 @@ his mother."
   becomes plot-relevant (recommended: Denise, given proximity, is the
   more likely candidate for an on-page scene).
 
-## Renata Kucera — DV-advocacy contact
+## Renata Kucera — coercive-group exit-support contact
 
 Resolves the previously-open role for Evelyn Price/"Lena Hart"'s
-storyline.
+storyline. **Amended post-red-team**
+(`00_project/gate_3_mystery_validation.md` amendment 11,
+`00_project/red_team_review.md`): originally built as a DV-advocacy
+contact; reframed when Evelyn's storyline was structurally decoupled
+from domestic violence to avoid reproducing the "fabricated DV claim"
+trope. The underlying mechanism (a real, narrower-scope legitimate
+resource the fabricated persona couldn't risk using) is preserved; the
+topic is not.
 
 - **Full name**: Renata Kucera, 39. Caseworker/advocate at an unnamed
-  (fictional) Brooklyn domestic-violence advocacy nonprofit.
-- **Connection to the story**: A business card of Renata's, from the
-  real nonprofit's real intake line, is among the physical mementos
-  Evelyn Price kept from her time caring for "Lena Hart" — "Lena"
-  mentioned Renata's organization once, in passing, as a resource she'd
-  looked into and decided (per Elena's actual, non-fabricated
-  circumstances — see `gate_3_mystery_validation.md` item 18) not to
-  formally use, since a full intake would have required more
+  (fictional) organization supporting people who have left high-control
+  groups — exit counseling, practical resettlement help, and referrals.
+- **Connection to the story**: A business card of Renata's is among the
+  physical mementos Evelyn Price kept from her time caring for "Lena
+  Hart" — "Lena" mentioned Renata's organization once, in passing, as a
+  resource she'd looked into and decided (per Elena's actual
+  circumstances — see `gate_3_mystery_validation.md` amendment 11) not
+  to formally use, since a full intake would have required more
   documentable identity verification than her constructed persona could
   survive. This is a small, specific, quietly devastating detail once
   its full meaning is understood: "Lena" needed exactly the kind of
   legitimate help Renata's organization offers, and the manufactured
   nature of her situation is precisely what kept her from being able to
-  use it — directly dramatizing `09_research/SOURCE_LOG.md` Entry 5's
-  finding that real address-confidentiality/advocacy resources are
-  narrower in scope than Palinode's manufactured continuity, without
-  ever implying those real resources are inadequate in general.
+  use it — directly dramatizing (by analogy to)
+  `09_research/SOURCE_LOG.md` Entry 5's finding that real protective/
+  exit resources are narrower in scope than Palinode's manufactured
+  continuity, without ever implying those real resources are inadequate
+  in general. Per the red-team review's finding that this beat read as
+  uncomplicated for too much of the book if its full meaning waits
+  entirely for Part III, Gate 4 should plant an earlier, oblique signal
+  that something about "Lena's" reason for not using this resource isn't
+  what it first appears to be.
 - **On-page likelihood**: Low — most useful as a referenced, physical-
   evidence-adjacent detail (the business card itself, as a clue
   candidate) rather than a scene partner. Built to this depth so the
   detail is usable without requiring further invention if Gate 4 wants
   more from her.
+- **Research needs**: Real high-control-group/cult exit-support practice
+  — not yet sourced, added to `09_research/FACT_CHECK_QUEUE.md`.
 
 ## Elena's acting-world contacts
 

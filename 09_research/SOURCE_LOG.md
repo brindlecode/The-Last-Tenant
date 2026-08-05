@@ -245,11 +245,16 @@ story · fictionalization decision.
   requiring retraining or career change.
 - **Source**: The Times of Israel, "In Brooklyn's 'Little Odesa,' Jews
   from Ukraine and Russia find war 'terrifying'"
-  (timesofisrael.com); The Science Survey, "Brighton Beach: The Soviet
-  Jewish Refuge in Brooklyn"; New York Public Library blog, "From
-  Odessa to New York City: The Unique Legacy of America's Soviet Jewry"
-  (nypl.org); Brooklyn Jewish Historical Initiative, "Brighton Beach"
-  neighborhood page (brooklynjewish.org) — cross-read together.
+  (timesofisrael.com); New York Public Library blog, "From Odessa to
+  New York City: The Unique Legacy of America's Soviet Jewry" (nypl.org);
+  Brooklyn Jewish Historical Initiative, "Brighton Beach" neighborhood
+  page (brooklynjewish.org) — all institutional/editorial sources.
+  Cross-read against The Science Survey, "Brighton Beach: The Soviet
+  Jewish Refuge in Brooklyn" — a student-run publication, noted here as
+  a weaker source tier than the other three per the red-team review's
+  methodology finding; used only for corroborating detail already
+  supported by the institutional sources, never as sole support for any
+  claim.
 - **Access date**: 2026-08-05.
 - **Confidence**: High — corroborated across multiple independent
   sources including a major cultural institution (NYPL) and a dedicated

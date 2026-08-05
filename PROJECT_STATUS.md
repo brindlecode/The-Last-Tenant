@@ -1,96 +1,112 @@
-# Project Status — THE LAST TENANT (Mara/Elena canon)
+# Project Status — A BORROWED NAME (Mara/Elena canon)
 
-Last updated: 2026-08-04 (session: full repository foundation, Gates 0–1)
+Last updated: 2026-08-05 (session: Gate 2 + Gate 3 closure, five
+high-impact decisions resolved, adversarial red-team review conducted
+and every Critical/High finding resolved or explicitly logged)
 
-**This is the only canonical version of THE LAST TENANT in this
-repository's usable history.** See `CLAUDE.md`'s canon declaration. The
-prior `claude/last-tenant-part-one-ch1-4-nfwdvx` branch (Nora Hale/Cass
-Ferris material) is rejected and shares no git history with this branch.
+**This is the only canonical version of A BORROWED NAME in this
+repository's usable history.** Working title changed this session from
+"THE LAST TENANT" — see `DECISION_LOG.md` and
+`12_publishing/title_review.md`. See `CLAUDE.md`'s canon declaration.
+The prior `claude/last-tenant-part-one-ch1-4-nfwdvx` branch (Nora Hale/
+Cass Ferris material) is rejected and shares no git history with this
+branch.
 
 ## Gate status
 
 | Gate | Status | Evidence |
 |---|---|---|
-| 0 — Foundation | **COMPLETE** | `00_project/` fully populated; root status files (this set) present |
-| 1 — Concept validation | **COMPLETE** | `00_project/gate_1_concept_validation.md`; `04_plot/opening_options.md`, `ending_options.md` |
-| 2 — Character validation | **NOT STARTED** (seeded) | `03_characters/` fully populated with working drafts, `STATUS: DRAFT` on every file — not yet formally validated per `00_project/quality_gates.md` Gate 2 checklist |
-| 3 — Mystery validation | **NOT STARTED** (seeded) | `05_mystery/` populated with the source brief's twist architecture organized into the right slots; six timelines exist but several (especially Palinode's "Response" sections) have major unresolved gaps — see `08_continuity/open_questions.md` |
-| 4 — Structure validation | **NOT STARTED** | `04_plot/` has real synopses (master/one-page/five-page) and the required opening/ending comparisons, but `chapter_map.md`, `act_structure.md`, `tension_curve.md`, `emotional_curve.md`, etc. are explicit `STATUS: NOT STARTED` stubs pending Gate 2/3 closure |
-| 5 — Pre-draft red-team | **NOT STARTED** | Depends on Gates 2–4 |
+| 0 — Foundation | **COMPLETE** | `00_project/` fully populated |
+| 1 — Concept validation | **COMPLETE** | `00_project/gate_1_concept_validation.md` |
+| 2 — Character validation | **COMPLETE** | `00_project/gate_2_character_validation.md`; all 12 named characters + supporting cast at full template depth; four named stereotype stress-tests completed, two requiring genuine structural fixes after red-team review, not just softer language |
+| 3 — Mystery validation | **COMPLETE** | `00_project/gate_3_mystery_validation.md` (base + 17-item post-red-team amendment section); all six timelines, full clue register (14 clues), red-herring register, reveal ladder, fairness audit, and a genuinely independent (not self-administered) solution stress test |
+| 4 — Structure validation | **NOT STARTED** | Explicit instruction this session: do not begin. `04_plot/act_structure.md`, `chapter_map.md`, `scene_inventory.md`, `tension_curve.md`, `emotional_curve.md`, `subplot_map.md` remain stubs — their former blockers are now cleared (Gate 3 is closed), so the next session can begin directly |
+| 5 — Pre-draft red-team | **NOT STARTED** (a *targeted* Gate 2/3 red-team pass was run this session, see below — this is not a substitute for Gate 5, which requires Gate 4 to exist first) | `00_project/red_team_review.md` |
 
 **No manuscript chapter has been drafted.** `07_manuscript/` is
-structurally complete (front/back matter placeholders, three part
-directories) but contains no prose, per this session's explicit
-instruction not to draft Chapter 1.
+structurally complete but contains no prose, per this session's explicit
+instruction.
 
-## What exists (full repository structure — see `CLAUDE.md`'s repository
-map for the annotated version)
+## This session's work (in order)
 
-All 13 numbered directories plus `tools/` are populated: `00_project/`
-(7 files), `01_author_bible/` (6), `02_novel_bible/` (11),
-`03_characters/` (17), `04_plot/` (14), `05_mystery/` (12),
-`06_chapter_briefs/` (empty, ready), `07_manuscript/` (structure only,
-no prose), `08_continuity/` (10 living-register files, empty pending
-drafting), `09_research/` (index/log/queue/legal-notes populated, 2 real
-sourced entries + a long remaining queue), `10_revision/` (14 stub
-files, not applicable until a draft exists), `11_beta_readers/` (4
-files, framework ready), `12_publishing/` (12 files — title/logline/
-pitch positioning genuinely drafted, submission-stage files stubbed),
-`tools/` (5 working Python scripts, tested against the current empty
-manuscript state).
+1. Confirmed branch state (`claude/mara-elena-foundation`, correct and
+   current — not the harness-default branch string, which names the
+   rejected material this project exists to supersede). ✅
+2. Ran targeted research: 7 new sourced entries in
+   `09_research/SOURCE_LOG.md` (SIU statutory authority, civilian/police
+   information boundaries, NYC LLC-shell property practice, DV/coercive-
+   group address-confidentiality mechanics, data-broker regulation,
+   Soviet Jewish emigration to Brighton Beach). ✅
+3. Resolved all five previously-open high-impact decisions via genuine
+   multi-option comparison — title (20 alternatives), Voss family
+   origin/father's fate (3+ versions), Elena's disappearance mechanism
+   (4+ versions), ending architecture (re-tested and confirmed), Teo
+   Marchetti's role (4+ versions). Full record:
+   `00_project/gate_3_mystery_validation.md`,
+   `12_publishing/title_review.md`. ✅
+4. Locked the full Gate 3 objective truth (~25 questions) and rebuilt
+   all six mystery timelines from it. ✅
+5. Fully populated the clue system: clue register, density map, red-
+   herring register, reveal ladder, fairness audit, solution stress
+   test. ✅
+6. Brought all twelve character files plus supporting cast to full
+   Gate 2 template depth; ran named stereotype stress-tests; updated
+   all cross-reference matrices; ran a full cross-file contradiction
+   audit (found and fixed a stale alias artifact and an inconsistent
+   timeline date propagated across five files). ✅
+7. **Ran a genuine, independent adversarial red-team review** — eight
+   agents, ten professional perspectives, instructed explicitly to find
+   real problems rather than validate existing work. This found 11
+   Critical and 21 High findings, including: no mechanism ever
+   established why Mara had professional standing to investigate at
+   all; the climax had Mara illegally suppressing evidence; two
+   representation storylines needed structural (not just cosmetic)
+   fixes; a fairness-audit blind spot on the mystery's most
+   foundational reveal; an originality near-miss on the hidden
+   evidence cache's physical staging; and a self-citation error where
+   this very review was cited as complete before it existed. **Every
+   Critical finding was fixed; the large majority of High findings were
+   fixed directly**, with the remainder honestly logged as Gate 4/
+   drafting-stage work. Full record: `00_project/red_team_review.md`. ✅
+8. Updated all cross-referenced canonical files to reflect the
+   red-team fixes (character files, all six timelines, the clue system,
+   `04_plot/final_ending.md`, `02_novel_bible/bellwether_house.md`,
+   `00_project/quality_gates.md`, `production_workflow.md`,
+   `risk_register.md`). ✅
+9. Did not draft any manuscript chapter or begin Gate 4 structural
+   work, per explicit instruction. ✅
+10. Committed and pushed twice: once at Gate 2/3 closure, once after the
+    red-team fixes were applied.
 
-## Known high-priority gaps (see `08_continuity/open_questions.md` for
-the full consolidated list, and `DECISION_LOG.md`'s "unresolved
-high-impact decisions" section for items specifically awaiting human
-approval)
+## What genuinely remains open (see `08_continuity/open_questions.md`
+items 19–27 for the full list surfaced by the red-team review, and
+`09_research/FACT_CHECK_QUEUE.md` for research items)
 
-- What actually happened to Elena in her disappearance window — the
-  single most protected, most important undecided fact in the project.
-- Palinode's specific response to Elena's and then Mara's investigations
-  — flagged in `05_mystery/palinode_timeline.md` as the biggest single
-  Gate 3 gap.
-- The Voss family father's fate and the family's original surname.
-- Part II's major betrayal mechanism and Julian Vale's downfall
-  mechanism.
-- Title uniqueness ("THE LAST TENANT" duplicates this repository's own
-  rejected branch's title) — flagged for human decision before any
-  public use, not blocking continued drafting-preparation work.
-- The full research queue in `09_research/FACT_CHECK_QUEUE.md` —
-  jurisdictional plausibility (Mara's authority vs. NYPD's) is the
-  single highest-priority remaining item; two other items
-  (missing-person-report timing myth; synthetic identity fraud
-  definition) are already resolved with real sources.
-
-## This session's work
-
-1. Confirmed repository/branch state; built `claude/mara-elena-foundation`
-   as a true orphan branch, sharing no history with the rejected prior
-   branch. ✅
-2. Built the complete repository structure per the approved tree. ✅
-3. Wrote `CLAUDE.md` (canon declaration + process constitution). ✅
-4. Wrote root files: `README.md`, this file, `NEXT_ACTION.md`,
-   `DECISION_LOG.md`, `CHANGELOG.md`, `.gitignore`. ✅
-5. Fully populated Gate 0 (`00_project/`). ✅
-6. Ran rigorous Gate 1 concept validation, including all required
-   comparative exercises. ✅
-7. Stress-tested title, hook, Mara/Elena's indispensability, Bellwether
-   House, Palinode, the seven identities, the ending, realism,
-   originality, emotional depth, and full-novel sustainability — see
-   `00_project/gate_1_concept_validation.md`. ✅
-8. Generated and compared the required alternatives (5 openings, 4
-   endings, 3 Palinode origins, 3 Apartment 4C explanations, 3 childhood
-   events) and selected working answers with reasoning, not by default.
-   ✅
-9. Recorded unresolved high-impact decisions in `DECISION_LOG.md`. ✅
-10. Seeded (not formally validated) Gates 2–4's directories with
-    substantive working content, each honestly status-marked. ✅ (beyond
-    the session's strict minimum requirement, judged worthwhile given
-    how much usable material the source brief supplied)
-11. Wrote 5 working, tested Python utility scripts in `tools/`. ✅
-12. Did not draft any manuscript chapter. ✅ (per explicit instruction)
+- **Gate 4 has not been started.** This is the correct, explicit state
+  per this session's instructions, and is now unblocked — Gate 3's
+  closure removed every structural prerequisite. See `NEXT_ACTION.md`.
+- **Two sensitivity reads remain required before drafting**, not
+  optional: a dedicated read for Evelyn Price's restructured coercive-
+  group storyline and Jonah Bell's DV-client work, and a genuine
+  first-person/lived-experience read for Calvin Moss's agoraphobia.
+  Neither is satisfied by this session's general research.
+- **A handful of specific Gate 4 requirements are now locked as
+  required content**, not yet placed at the chapter level: an earlier
+  on-page moment showing Palinode's non-violence policy under strain; a
+  rhythm/syntax speech-pattern differentiation spec; the exact tactical
+  shape of the climax's rescue and confrontation scenes; the exact form
+  of Mara's professional consequence.
+- **One originality question is explicitly flagged for Gate 5's own
+  re-test**, not claimed fully closed: whether Apartment 4C's overall
+  narrative function, independent of the relocated cache, still sits
+  too close to the excluded "building conceals a missing woman's truth"
+  image (`gate_3_mystery_validation.md` amendment 16).
+- A real-world name-collision search for "Meridian Assurance Group,"
+  "Palinode Continuity Group," and "Bellwether House" has not been run
+  (the same check already done for the title).
 
 ## Commit status
 
-Committed to `claude/mara-elena-foundation` once this status file, gate
-verification, and the full structure were confirmed coherent — see
-`CHANGELOG.md` for the commit-level summary.
+Two commits this session on `claude/mara-elena-foundation`: the Gate 2/3
+closure checkpoint, and the post-red-team fix checkpoint. Both pushed to
+origin. See `CHANGELOG.md` for the full per-commit summary.

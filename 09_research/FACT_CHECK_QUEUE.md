@@ -51,20 +51,38 @@ unresolved, not restated for form. Ordered by priority.
 R-017) — genuinely unresolved, do not draft these scenes without closing
 these
 
-2. **A genuine first-person/lived-experience read on agoraphobia and
-   mobility limitation**, beyond general web guidance — grounds Calvin
-   Moss. Required before drafting any chapter with sustained focus on
-   him (`03_characters/calvin_moss.md`).
-3. **A sensitivity read specifically for the domestic-violence
-   storyline** (Evelyn Price's "Lena Hart" account, Jonah Bell's client
-   work) — general ACP-mechanism research (Entry 5) is not a substitute
-   for this. Required before those chapters are drafted in detail.
+2. **A genuine first-person/lived-experience read on agoraphobia**
+   (retitled post-red-team: no longer paired with "mobility limitation,"
+   which wrongly conflated an anxiety disorder with a physical
+   disability — see `00_project/red_team_review.md`), beyond general web
+   guidance — grounds Calvin Moss. Required before drafting any chapter
+   with sustained focus on him (`03_characters/calvin_moss.md`), and
+   specifically needed to test whether the gradual-onset revision and
+   behavioral-tells placeholder this session added actually hold up.
+3. **A sensitivity read specifically for Evelyn Price's "Lena Hart"
+   storyline** (retitled post-red-team: now a coercive-high-control-group
+   narrative, not domestic violence — see
+   `00_project/gate_3_mystery_validation.md` amendment 11 — the
+   structural DV-trope-reproduction risk that originally motivated this
+   item is resolved by the reframe, but a dedicated read remains
+   required regardless of topic) and for Jonah Bell's real DV-client
+   work specifically. Required before those chapters are drafted in
+   detail.
+3a. **NEW post-red-team**: real research on high-control-group/cult exit
+   support and the coercive tactics such groups actually use — replaces
+   assumption for Evelyn Price's restructured storyline and Renata
+   Kucera's role (`03_characters/supporting_cast.md`). Not yet sourced.
 4. **New York State's specific Address Confidentiality Program name and
    procedural detail** (the general multi-state mechanism is confirmed,
    Entry 5, but NY's own program was not separately queried) — needed
    before any scene names or specifically describes the real-shaped
    legitimate alternative Elena/Evelyn/Jonah's clients would have
    considered and found insufficient.
+4a. **NEW post-red-team**: a specific reviewer type and pass/fail
+   criteria for both sensitivity reads above are not yet defined —
+   `risk_register.md` R-016 is rated High impact with an underspecified
+   mitigation process; name the kind of reviewer needed and what happens
+   if a read recommends further structural change, not just line edits.
 
 ## Medium priority
 
@@ -90,6 +108,14 @@ these
     many active cases a Missing Persons Squad detective typically
     carries) — would sharpen Teo Marchetti's specific pressures beyond
     the general "overworked" characterization already in his file.
+12. **NEW post-red-team**: a real-world collision/clearance search for
+    invented institution names ("Meridian Assurance Group," "Palinode
+    Continuity Group," "Bellwether House") against real insurance
+    carriers and NYC property-management/building names — the same
+    rigor already applied to the book's title
+    (`12_publishing/title_review.md`) has not yet been applied to these.
+    Required before submission stage, per
+    `00_project/red_team_review.md`.
 
 ## Lower priority / craft calibration
 

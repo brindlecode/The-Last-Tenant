@@ -1,9 +1,16 @@
 # Investigative Counterpart — Det. Teo Marchetti
 
-STATUS: Gate 2 COMPLETE. Originally invented in the foundation session
-(the source brief required "one credible external counterpart" without
-naming one); this session ran the required Decision 5 comparison and
-filled all remaining template fields.
+STATUS: Gate 2 COMPLETE, AMENDED post-red-team (see
+`00_project/gate_3_mystery_validation.md` amendments 6–7 and
+`00_project/red_team_review.md`). Originally invented in the foundation
+session (the source brief required "one credible external counterpart"
+without naming one); this session ran the required Decision 5
+comparison and filled all remaining template fields. This amendment
+fixes three findings: an internal contradiction between "bends
+procedure exactly once" and a sustained pattern of off-the-record help;
+an unresolved professional outcome for the risk his file kept asserting;
+and a role conflation between a territorial precinct detective and
+NYPD's actual centralized Missing Persons Squad.
 
 ## Romance default — Decision 5, CONFIRMED this session
 
@@ -83,9 +90,16 @@ requiring readers to simply accept Mara's unofficial authority.
 - **Full name**: Mateo "Teo" Marchetti.
 - **Age**: 44.
 - **Role**: External investigative counterpart — NYPD Detective,
-  Missing Persons.
-- **Occupation**: NYPD Detective, precinct serving the Bellwether House
-  area (unnamed specific precinct).
+  Missing Persons Squad (a centralized, citywide specialized unit, not a
+  precinct-level assignment — corrected post-red-team; his territorial
+  familiarity with the Bellwether House neighborhood, below, comes from
+  personal history and having worked that specific area's missing-
+  persons cases often over his career, not from being precinct-attached
+  to it).
+- **Occupation**: NYPD Detective, Missing Persons Squad, working out of
+  a citywide unit but with a real, personal, non-administrative tie to
+  the Bellwether House neighborhood (see Family and cultural background,
+  below).
 - **Physical presence**: Workmanlike, unglamorous, visibly overworked —
   written deliberately against the stylized TV-detective archetype; a
   guy with too many open cases and a coffee habit, not a brooding
@@ -95,7 +109,9 @@ requiring readers to simply accept Mara's unofficial authority.
   building stock Bellwether House itself represents — a deliberate,
   small, unstated irony: he knows this neighborhood type intimately,
   which is part of why he's territorial about a civilian working a case
-  in it). Large extended family, most still local; his own nuclear
+  in it, and part of why this specific case landed with him rather than
+  being an arbitrary Missing Persons Squad assignment — he has a
+  personal, informal reputation for knowing this part of Brooklyn well). Large extended family, most still local; his own nuclear
   family (ex-wife, one son, age 9) is the one part of his life he keeps
   firmly separate from the extended-family noise. Divorced three years
   before the book begins; sees his son on a fixed, court-ordered
@@ -166,26 +182,50 @@ requiring readers to simply accept Mara's unofficial authority.
 - **Beginning knowledge**: Standard case-file knowledge; skeptical of
   Mara's identity-fraud-pattern theories initially.
 - **Ending knowledge**: LOCKED, per `00_project/gate_3_mystery_validation.md`
-  Decision 3 — comes to understand Palinode's real scope; is present, in
-  a legally usable capacity, for Mara's climactic interview with Julian
-  Vale, which is what gives her use of her own professional skill
-  against him actual downstream legal consequence rather than a private
-  satisfaction only. Bends procedure exactly once, at the point Adrienne
-  Shaw has already cut Mara off institutionally — sharing off-the-record
-  case information he technically shouldn't, a direct, personal echo of
-  his own three-years-ago case: this time, he decides the book isn't
-  enough, on his own authority, at his own professional risk. Becomes a
-  credible, bounded law-enforcement presence at the climax without the
-  book needing to hand him — or Mara — implausible official authority.
+  amendments 3–7 — comes to understand Palinode's real scope; is present
+  for the climax in a specifically legally-bounded way: he escorts and
+  resources the actual rescue as a proper police operation (Mara
+  provides intelligence and identification, not tactical participation),
+  and is present for the Julian Vale confrontation in a
+  consulting/witnessing capacity, with the statement's admissibility
+  risk explicitly acknowledged on the page rather than assumed clean.
+  **AMENDED, procedure-bending reconciled**: throughout the
+  investigation he extends an experienced detective's ordinary,
+  individually-defensible discretion toward a credentialed professional
+  he's coming to trust — confirming things that are technically
+  discoverable anyway, meeting to compare notes, general procedural
+  guidance — none of which is the real risk. **The one genuine
+  jeopardy** is a single, specific act at the point Adrienne Shaw has
+  already cut Mara off institutionally: sharing a specific piece of
+  protected case information he has no defensible cover for, a direct,
+  personal echo of his own three-years-ago case. This is what actually
+  risks his career, distinct from the lower-stakes discretion around it
+  — the two are no longer described in contradictory terms.
+- **Professional outcome, NEW, LOCKED at the same depth as Adrienne
+  Shaw's ending**: he faces an Internal Affairs inquiry over the
+  disclosure and his role in the case's resolution. He survives it, but
+  not unscathed — a formal reprimand in his file, and passed over for a
+  promotion he'd been positioning for. The department's real
+  institutional incentive not to make an example of the detective who
+  helped break a decades-old homicide and a major fraud network is what
+  keeps this survivable; it is a real, named, permanent cost, not a
+  private satisfaction with no consequence.
 - **Behavioral tells**: Taps a closed fist against his sternum, once,
   when he's about to say something he's not sure is his place to say —
   a small, specific, physical tell distinct from any other character's.
-  Goes quiet and unusually still (his version of Mara's trained
-  stillness, but unpracticed, just fatigue) when a case reminds him of
-  the one he got exactly right by the book and still lost.
-- **Arc**: Procedural skeptic → an ally who bends procedure meaningfully,
-  once, at the moment it actually matters — not a character who abandons
-  professionalism, one who exercises judgment within it.
+  **AMENDED post-red-team** (the original second tell, "goes quiet and
+  unusually still," collided with Evelyn Price's tell mechanism):
+  flips open and checks his own notebook or phone for a specific old
+  case number he already has memorized, an unnecessary physical action
+  that buys him a beat, when a case reminds him of the one he got
+  exactly right by the book and still lost.
+- **Arc**: Procedural skeptic → extends ordinary, defensible professional
+  discretion increasingly → one genuine, jeopardizing act of real
+  procedure-bending at the moment it actually matters → survives an IAB
+  inquiry with real, lasting professional cost. Not a character who
+  abandons professionalism, one who exercises judgment within it and
+  pays a real price for the one time he goes further than judgment
+  alone would justify.
 - **Scene utility / indispensability**: The dramatized answer to
   `risk_register.md` R-006 — without him, Mara's lack of official
   authority is an unaddressed plausibility hole; with him, it's a

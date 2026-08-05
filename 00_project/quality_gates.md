@@ -86,28 +86,36 @@ lock every downstream detail.
 built, and survives a stereotype/utility audit.
 
 Checklist:
-- [ ] Every character in `03_characters/character_index.md` has a file
+- [x] Every character in `03_characters/character_index.md` has a file
   completing every field in the character template (see
   `character_index.md` for the field list) — not just the fields the
   original project brief happened to specify.
-- [ ] For each character: an explicit answer to "what does this person
+- [x] For each character: an explicit answer to "what does this person
   do in the story that no other character could do," and confirmation
-  that removing them would leave a hole, not just a redundancy.
-- [ ] Stereotype-risk review completed for every character whose identity
+  that removing them would leave a hole, not just a redundancy — see
+  `00_project/gate_2_character_validation.md`'s indispensability check.
+- [x] Stereotype-risk review completed for every character whose identity
   intersects a real-world marginalized or vulnerable group (age,
   disability, domestic-violence survivorship, childhood, immigrant
   background, etc.) — specificity-over-trope confirmed, not assumed.
-- [ ] `relationship_matrix.md`, `knowledge_matrix.md`, and
+  Named stress-tests for Evelyn Price, Irena Petrov, Malik Reed, and
+  Calvin Moss recorded in `gate_2_character_validation.md`; two of the
+  four (Evelyn, Calvin) required real structural mechanism changes after
+  an adversarial red-team pass found the original Gate 2 review checked
+  tone rather than structure — see `00_project/red_team_review.md` and
+  `gate_3_mystery_validation.md` amendments 11–12.
+- [x] `relationship_matrix.md`, `knowledge_matrix.md`, and
   `character_arc_matrix.md` completed and cross-checked against each
   character's individual file for contradictions.
-- [ ] `investigative_counterpart.md` resolved: either a fully-built
-  counterpart character exists, or an explicit, reasoned decision that
-  none is needed is recorded.
+- [x] `investigative_counterpart.md` resolved: Det. Teo Marchetti, fully
+  built, with the no-romance default confirmed via genuine 4-option
+  comparison (Decision 5).
 
-**Closed**: no. Character files in this repository currently carry
-`STATUS: DRAFT — seeded from originating brief` and are usable as
-working reference, not as validated canon. Formal Gate 2 closure is
-future work — see `NEXT_ACTION.md`.
+**Closed**: YES, as of the Gate 2/3 session (2026-08-05), amended after
+red-team review. See `00_project/gate_2_character_validation.md` for the
+full closure record and `00_project/red_team_review.md` for the
+adversarial pass that found and required fixing two structural
+representation issues before this checkbox could honestly be checked.
 
 ---
 
@@ -117,25 +125,34 @@ future work — see `NEXT_ACTION.md`.
 own rules, and structurally sound across every character's account.
 
 Checklist:
-- [ ] All six timelines complete and mutually consistent: objective
+- [x] All six timelines complete and mutually consistent: objective
   truth, Mara's knowledge, reader's knowledge, Elena's operational
-  history, Palinode's response, evidence provenance.
-- [ ] Every clue in `clue_register.md` has: first appearance, surface
+  history, Palinode's response, evidence provenance — at Part-level
+  granularity (chapter-level is Gate 4 work, correctly not started).
+- [x] Every clue in `clue_register.md` has: first appearance, surface
   meaning, true meaning, who notices it, why it's misread, payoff
-  chapter, and an explicit fairness check.
-- [ ] `red_herring_register.md` confirms every red herring arises from a
+  Part, and an explicit fairness check. Fourteen clues, up from twelve
+  after the red-team review found and closed a fairness gap (reveal 5)
+  and added a claim-anchor clue.
+- [x] `red_herring_register.md` confirms every red herring arises from a
   real character motive, not authorial misdirection for its own sake.
-- [ ] `reveal_ladder.md` sequences every major revelation against the
-  chapter map (pending Gate 4) and confirms no reveal depends on a fact
-  the reader couldn't have inferred.
-- [ ] `solution_stress_test.md` completed: an adversarial pass
-  specifically hunting for plot holes, unfair leaps, and coincidences
-  that do the story's work instead of character choices.
+- [x] `reveal_ladder.md` sequences every major revelation at Part-level
+  granularity and confirms no reveal depends on a fact the reader
+  couldn't have inferred — with required reminder beats for the
+  longest-open clue now explicitly scheduled, not just noted.
+- [x] `solution_stress_test.md` completed: a genuine adversarial pass
+  (eight agents, ten professional perspectives) specifically hunting for
+  plot holes, unfair leaps, and coincidences that do the story's work
+  instead of character choices — not merely self-administered, per the
+  correction recorded in that file and in
+  `00_project/red_team_review.md`.
 
-**Closed**: no. `05_mystery/` currently contains the twist architecture
-as given in the originating brief, organized into the correct file
-slots, explicitly marked draft. It has not yet been stress-tested,
-timelined day-by-day, or fairness-audited.
+**Closed**: YES, as of the Gate 2/3 session (2026-08-05), amended after
+red-team review. `05_mystery/` was built out from the originating
+brief's twist architecture into a fully locked, timelined, fairness-
+audited, and genuinely (not self-)stress-tested mystery — see
+`00_project/gate_3_mystery_validation.md` and
+`00_project/red_team_review.md`.
 
 ---
 

@@ -90,11 +90,13 @@ no such scenario exists in the locked mystery.
   cross-references his timeline against Gabriel Knox's maintenance logs
   (`05_mystery/clue_register.md` #10) — confirmed to have no further
   role in the climax itself, consistent with the R-017 constraint above.
-- **Behavioral tells**: Bounces a knee or taps a rhythm when deciding
-  whether to volunteer something; answers a direct question about where
-  he's been with a slightly-too-quick "nowhere" before, if pressed
-  kindly rather than sharply, actually telling the truth — ordinary-kid
-  tells, not a device.
+- **Behavioral tells**: **AMENDED post-red-team** (the original tell,
+  "taps a rhythm," collided with Teo Marchetti's sternum-tap): bounces a
+  knee or picks at a loose thread or shoelace when deciding whether to
+  volunteer something; answers a direct question about where he's been
+  with a slightly-too-quick "nowhere" before, if pressed kindly rather
+  than sharply, actually telling the truth — ordinary-kid tells, not a
+  device.
 - **Arc**: Overlooked kid → credible witness who provides real, grounded
   information → treated, by the end, as someone whose observations
   mattered.

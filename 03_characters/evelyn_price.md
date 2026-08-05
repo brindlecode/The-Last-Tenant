@@ -1,7 +1,16 @@
 # Evelyn Price
 
-STATUS: Gate 2 COMPLETE. Stereotype-risk and consistency review recorded
-in `00_project/gate_2_character_validation.md`.
+STATUS: Gate 2 COMPLETE, AMENDED post-red-team (see
+`00_project/gate_3_mystery_validation.md` amendment 11 and
+`00_project/red_team_review.md`). **"Lena Hart"'s storyline is
+structurally decoupled from domestic violence** — the original
+fabricated-abusive-partner mechanism was found, correctly, to reproduce
+the real-world "DV survivors fabricate claims" trope regardless of
+sympathetic framing, and to conflict with this project's own genre
+contract that no witness account is a lie. "Lena Hart" is now fleeing a
+coercive, high-control group, not an abusive partner. This remains
+**PROVISIONAL pending the dedicated sensitivity read**
+`09_research/FACT_CHECK_QUEUE.md` still requires before drafting.
 
 - **Full name**: Evelyn Price.
 - **Age**: 71.
@@ -43,11 +52,19 @@ in `00_project/gate_2_character_validation.md`.
 - **Contradictions**: Professionally trained to trust hard clinical
   evidence over sentiment — and the single thing she's most emotionally
   certain of (Lena's pregnancy, her danger) is real, but not for the
-  reason she was told (see Secret, below) — LOCKED, Gate 3: the
-  pregnancy was real; Elena experienced an early loss during the "Lena
-  Hart" relationship and folded it into the existing "fleeing an
-  abusive partner" persona rather than disclose the truth, since
-  reworking the persona at that point risked its credibility.
+  reason she was told (see Secret, below) — LOCKED, Gate 3, AMENDED
+  post-red-team: the pregnancy was real; Elena experienced an early loss
+  during the "Lena Hart" relationship and folded it into the existing
+  persona rather than disclose the truth, since reworking the persona at
+  that point risked its credibility. **The persona itself**: "Lena Hart"
+  was fleeing Halcyon Circle, a fictional, invented-for-this-book
+  high-control wellness/community group that used financial control,
+  surveillance, and social isolation against members who tried to
+  leave — not an abusive partner. The danger was real in kind (Halcyon
+  Circle's leadership has a documented pattern of aggressive,
+  intimidating pursuit of people who leave), decoupling this storyline
+  from any implication about the credibility of domestic-violence
+  disclosures specifically.
 - **Desire**: To have helped Lena successfully. Now, to know she's safe.
 - **Need**: To reckon with whether her belief was manipulated or
   genuinely earned — and to arrive at "both, and it still mattered,"
@@ -56,11 +73,19 @@ in `00_project/gate_2_character_validation.md`.
 - **Shame**: Believes she failed Lena — carries this as an active,
   present-tense weight, not backstory color.
 - **Secret**: LOCKED, Gate 3 — she once noticed a small inconsistency in
-  Lena's account (a detail about "his" name that didn't quite match
-  across two tellings, months apart) and chose not to push it, wanting
-  the story — and her own usefulness in it — to be true. This is a
-  real, specific, non-idealized failure of her own clinical instincts,
-  not just a generic "she was fooled" framing.
+  Lena's account (a detail about a Halcyon Circle location or contact
+  that didn't quite match across two tellings, months apart) and chose
+  not to push it, wanting the story — and her own usefulness in it — to
+  be true. **Framing note, amended post-red-team**: this should not be
+  drafted or discussed as "a failure of her clinical instincts" in a way
+  that implies she should have doubted more — trauma-informed practice
+  correctly treats extending trust over interrogating a vulnerable
+  person's account as the right instinct, not a lapse. Her arc's
+  endpoint (below) — that her care was not wasted or foolish — should be
+  the foregrounded truth; this one specific, human, non-generalized
+  choice not to push a detail is real and costs her something to learn
+  about, but the narrative must not frame "trusting her" as the
+  mistake.
 - **False belief**: That her clinical instincts are close to infallible
   against being fooled.
 - **Relationship to Mara**: Warm, forthcoming, the most emotionally open
@@ -71,14 +96,22 @@ in `00_project/gate_2_character_validation.md`.
   month Bellwether House campaign
   (`05_mystery/elena_timeline.md`) — positions her as the clearest
   on-page vehicle for `02_novel_bible/thematic_argument.md`'s "violence
-  of forcing someone back into a life they escaped" theme.
+  of forcing someone back into a life they escaped" theme, now realized
+  through coercive-group exit rather than intimate-partner violence.
 - **Beginning knowledge**: Believes Lena Hart's account in full,
-  including a business card from a real DV-advocacy contact (Renata
-  Kucera, `03_characters/supporting_cast.md`) that "Lena" mentioned once
-  and never formally used — a detail Evelyn kept without understanding
-  its full significance.
+  including a business card from a real exit-support contact (Renata
+  Kucera, `03_characters/supporting_cast.md`, now reframed as a
+  coercive-group-recovery referral contact rather than a DV-advocacy
+  one) that "Lena" mentioned once and never formally used — a detail
+  Evelyn kept without understanding its full significance. Per the
+  red-team finding that this beat read as "real resources weren't
+  enough" for too much of the book if held entirely for Part III, Gate 4
+  should plant an earlier, oblique signal (alongside Clue #4's theater-
+  vocabulary pattern) that something about why "Lena" avoided using this
+  resource isn't what it appears — not wait entirely for the Part III
+  reveal.
 - **Ending knowledge**: Learns the manufactured elements — specifically,
-  that "Lena Hart" as a persona and the abusive-partner backstory were
+  that "Lena Hart" as a persona and the Halcyon Circle backstory were
   constructed, while the pregnancy and its loss were real. Must reconcile
   that the *care* was real even where the circumstances weren't.
 - **Behavioral tells**: Reflexively checks a listener's physical
@@ -94,21 +127,31 @@ in `00_project/gate_2_character_validation.md`.
   specifically by learning the pregnancy and loss were real even though
   the surrounding persona wasn't — the reconciliation is anchored in a
   real fact, not an abstract sentiment.
-- **Scene utility / indispensability**: Gives the domestic-violence-
+- **Scene utility / indispensability**: Gives the coercive-group-exit
   cover storyline its clearest emotional stakes and its most clinically
   credible physical evidence; the Renata Kucera business card ties her
   storyline directly to `09_research/SOURCE_LOG.md` Entry 5's finding
-  about the real, narrower scope of legitimate DV-relocation resources.
+  about the real, narrower scope of legitimate protective/exit
+  resources generally (the specific DV framing of that entry's
+  fictionalization decision should be read as applying to coercive-group
+  exit support by direct analogy, not literally restated).
 - **Stereotype risk**: Elderly-woman-as-naive explicitly rejected — she
   reads as professionally sharp and clinically credible throughout; her
   one failure (not pushing the name inconsistency) is a specific,
   motivated human lapse, not general gullibility, and is framed as
-  such.
-- **Research needs**: DV/address-confidentiality-program research
-  substantially resolved (`SOURCE_LOG.md` Entry 5); NY State's specific
-  program name remains a medium-priority open item
-  (`FACT_CHECK_QUEUE.md` item 4). A dedicated sensitivity read for this
-  storyline specifically remains required before drafting
-  (`FACT_CHECK_QUEUE.md` item 3) — general research is not a substitute.
-  Maternity/prenatal nursing detail remains a lower-priority open item
-  (`FACT_CHECK_QUEUE.md` item 10).
+  such. **Amended post-red-team**: this storyline no longer risks
+  reproducing the "fabricated DV claim" trope, since it was
+  restructured away from DV entirely (`gate_3_mystery_validation.md`
+  amendment 11) — this was a Critical finding this session, not a
+  hypothetical one.
+- **Research needs**: General DV/address-confidentiality-program
+  research (`SOURCE_LOG.md` Entry 5) remains useful background but is no
+  longer this character's primary research need now that her storyline
+  doesn't center DV specifically. **New primary need**: real information
+  on high-control-group/cult exit support and the coercive tactics such
+  groups actually use, to replace assumption with research the same way
+  the DV research was originally intended to — not yet sourced, add to
+  `FACT_CHECK_QUEUE.md`. A dedicated sensitivity read remains required
+  before drafting regardless of topic (`FACT_CHECK_QUEUE.md` item 3,
+  scope updated). Maternity/prenatal nursing detail remains a
+  lower-priority open item (`FACT_CHECK_QUEUE.md` item 10).

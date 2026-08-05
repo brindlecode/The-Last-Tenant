@@ -144,6 +144,68 @@ checklist, are recorded in `00_project/gate_3_mystery_validation.md`.
 `08_continuity/open_questions.md` updated to reflect every item now
 closed.
 
+## 2026-08-05 — Adversarial red-team review conducted; 11 Critical and 21 High findings fixed
+
+Per this session's explicit instruction, an eight-agent, ten-perspective
+adversarial red-team review was run against the freshly-closed Gate 2
+and Gate 3 material (full report: `00_project/red_team_review.md`).
+This surfaced genuine, load-bearing gaps that a self-administered check
+had missed or, in one case, prematurely claimed as already
+independently verified. Every Critical finding was fixed; the large
+majority of High findings were fixed directly, with the remainder
+honestly logged as Gate 4/drafting-stage work this session cannot
+complete without a chapter map. Highlights, full detail in the review
+file:
+
+- **Process integrity**: `solution_stress_test.md` and
+  `gate_3_mystery_validation.md` had cited `00_project/red_team_review.md`
+  as already-completed corroboration *before that file existed* — caught
+  independently by four of five review agents. The review has now
+  genuinely been conducted and every citation is accurate.
+- **A real claim-authority gap**: nothing previously gave Mara any
+  actual professional standing to investigate Bellwether House — fixed
+  with a new claim anchor (a dormant Meridian policy under one of
+  Elena's aliases).
+- **A legally indefensible climax**: the original ending had Mara
+  personally suppressing evidence of ongoing crimes — rebuilt as full
+  disclosure plus advocacy for prosecutorial discretion, which is both
+  legally sound and a more precise realization of the book's own theme.
+- **Two representation findings that required structural fixes, not
+  just softer language**: Evelyn Price's storyline was restructured
+  away from a fabricated-domestic-violence narrative (which reproduced
+  a real, damaging trope) to a coercive-high-control-group narrative;
+  Calvin Moss's professional skill was decoupled from his disability's
+  onset (fixing an instrumentalized-disability structure), and
+  "agoraphobia/mobility limitation" was retired as a conflated pairing.
+- **A significant, respectfully-researched gap in Irena Petrov's
+  history**: her file previously never engaged the fact that her stated
+  birth year places her in Odesa during the WWII occupation and the
+  near-destruction of the city's Jewish community — now addressed with
+  a specific, historically-grounded family evacuation history.
+- **An originality near-miss, independently caught by two agents**: the
+  hidden evidence cache's staging as "a concealed cavity in a wall"
+  echoed `banned_cliches.md`'s explicit ban closely enough to require a
+  fix, not a dismissal — relocated to the building's sealed dumbwaiter
+  shaft.
+- **A genuine fairness-audit blind spot**: no clue in the register
+  actually delivered "Palinode is an organization," the single most
+  foundational reveal in the ladder, despite five other reveals
+  depending on it — fixed with a new clue (Elena's own investigative
+  notes, found in the relocated cache).
+- **Institutional/procedural realism fixes**: why the case doesn't
+  escalate beyond one detective (institutional fragmentation, now
+  explicit); Adrienne Shaw's Part II arc rebuilt to include an earlier,
+  active phase of shielding Mara before her reversal (closing both a
+  timing-implausibility finding and a fairness gap); Teo Marchetti's
+  professional outcome (an IAB inquiry with real, lasting cost) finally
+  locked; a chronology gap in the Apartment 4C lease dates closed.
+- **Craft**: five characters' behavioral tells sharing one template, and
+  several exact-verb collisions across different characters, both fixed.
+
+Full resolution tracking for all 11 Critical and 21 High findings, plus
+the Medium/Low findings, is in `00_project/red_team_review.md`. This
+entry is the pointer; that file is the record.
+
 ---
 
 ## Unresolved high-impact decisions as of the prior (foundation) session — ALL RESOLVED ABOVE, preserved for history

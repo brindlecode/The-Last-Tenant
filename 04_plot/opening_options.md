@@ -14,16 +14,33 @@ against that exclusion list specifically.
 
 ---
 
-## Option 1 — "The Hidden Cavity" (source-brief default)
+## Option 1 — "The Hidden Cache" (source-brief default; physical staging
+revised post-red-team, see below)
 
-**Beats**: Mara, granted brief authorized access to Apartment 4C during
-the missing-person process, finds the apartment deliberately,
-professionally emptied. Her surveyor-adjacent eye (records/documents
-rather than physical structure, but the same instinct) catches an
-inconsistency in a wall or fixture; she finds a concealed cavity holding
-identity documents — several, all bearing Elena's face, none of them
-Elena's name. Among them, an envelope addressed specifically to Mara.
-Inside: "You were the first tenant."
+**Beats**: Mara, granted brief authorized access to Apartment 4C tied to
+a genuine Meridian claim (`00_project/gate_3_mystery_validation.md`
+amendment 1), finds the apartment deliberately, professionally emptied.
+Her eye for records and structure both catches that the unit's sealed,
+disused dumbwaiter shaft has been recently disturbed; she finds Elena's
+hidden evidence cache inside it — identity documents, several, all
+bearing Elena's face, none of them Elena's name, plus Elena's own
+investigative notes and partial financial records. Among them, an
+envelope addressed specifically to Mara. Inside: "You were the first
+tenant."
+
+**Physical staging note, AMENDED post-red-team**: originally specified
+as "a concealed cavity" behind "an inconsistency in a wall or fixture."
+Two independent review perspectives found this sat too close to
+`01_author_bible/banned_cliches.md`'s explicit ban on "a single hidden
+physical cavity/patch in a wall functioning as the central physical-
+evidence mechanism the whole mystery pivots on." **Relocated to the
+building's sealed, disused dumbwaiter shaft** — already-established
+architecture (`02_novel_bible/bellwether_house.md`), structurally and
+imagistically distinct from a wall cavity, and with real thematic
+resonance a plain wall patch lacked (an old vertical channel that once
+carried messages between floors, repurposed one last time to carry
+Elena's message to Mara). Full reasoning:
+`00_project/gate_3_mystery_validation.md` amendment 8.
 
 **Function if used as the opening**: immediate, maximal mystery hook;
 personal stakes established in the first scene.

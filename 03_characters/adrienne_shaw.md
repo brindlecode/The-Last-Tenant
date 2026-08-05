@@ -1,7 +1,15 @@
 # Adrienne Shaw
 
-STATUS: Gate 2 COMPLETE. Stereotype-risk and consistency review recorded
-in `00_project/gate_2_character_validation.md`.
+STATUS: Gate 2 COMPLETE, AMENDED post-red-team (see
+`00_project/gate_3_mystery_validation.md` amendment 2 and
+`00_project/red_team_review.md`). Her Part II turn was found to be
+implausibly late and wrongly motivated — a savvy, thirty-year
+institutional operator would realistically notice and act on the
+liability exposure of Mara's activity well before any external pressure
+arrived. Fixed below by making her *notice early and actively shield
+Mara*, then reverse only once personally pressured — a stronger,
+earlier-seeded, more devastating version of the same betrayal, not a
+different one.
 
 - **Full name**: Adrienne Shaw.
 - **Age**: 52.
@@ -64,15 +72,26 @@ in `00_project/gate_2_character_validation.md`.
   formal fraud referral, clustered in ways she's never let herself map
   fully) — a generalized, self-protective *not-quite-knowing* rather
   than deliberate concealment of a named organization she's never
-  identified as Palinode specifically. When Palinode-linked pressure
-  reaches her directly for the first time, in Part II — a reminder of
+  identified as Palinode specifically. **AMENDED post-red-team, new
+  Part II detail**: within the first two or three weeks of Mara's
+  investigation, Adrienne — exactly the kind of institutional operator
+  who would — notices an internal compliance flag on Mara's unusual
+  file-access pattern, tied to the Dana Kessler policy claim
+  (`gate_3_mystery_validation.md` amendment 1). She does not report it
+  or shut Mara down. She actively, quietly protects her: slow-walking
+  the compliance review, spending real institutional capital to keep
+  the file open, vouching for Mara internally — a genuine extension of
+  her real mentorship, not a passive absence of scrutiny. **Only once
+  Palinode-linked pressure reaches her personally** — a reminder of
   exactly what she has to lose, delivered through a channel she
   recognizes as connected to the pattern she's spent years not
-  examining — it activates a self-protective instinct that was already
-  there, rather than calling in a standing arrangement. This is the
-  more sympathetic, more interesting version this file originally
-  flagged as recommended, now locked. Full mechanism:
-  `00_project/gate_3_mystery_validation.md` Decision 3, item 9.
+  examining — does she reverse, citing the very same compliance flag
+  she'd been shielding Mara from, now weaponized instead of suppressed.
+  This is a stronger, earlier-seeded, more devastating betrayal than the
+  original version: she spent herself to protect Mara, then chose
+  herself over her. Full mechanism:
+  `00_project/gate_3_mystery_validation.md` amendment 2 and Decision 3,
+  item 9.
 - **False belief**: That protecting the institution and protecting Mara
   are, in practice, the same project — they are not, and the book should
   force her to discover this.
@@ -107,19 +126,29 @@ in `00_project/gate_2_character_validation.md`.
   if compromised, belief that some of what she buried protected people
   who didn't deserve to be caught in the fallout, an echo of Palinode's
   own justification structure inside a legitimate institution.
-- **Behavioral tells**: Becomes *more* solicitous and warmer, not
-  colder, when managing a conversation she needs to control — praise
-  arrives a half-beat too promptly after anything that could read as
-  criticism of her. Straightens or squares physical objects on her desk
-  (a stapler, a folder edge) during the specific kind of pause where
-  she's deciding how much to say — a small, controlled displacement
-  tell distinct from any other character's.
-- **Arc**: LOCKED — compromised mentor → activated by external pressure
-  into a specific, costly Part II betrayal → confronted directly at the
-  climax → a real, costly professional and personal reckoning. Resolves
-  as neither simple villain nor simple redemption — her mentorship of
-  Mara was real; her Part II choice was also a real betrayal; both are
-  true and the book does not let one cancel the other.
+- **Behavioral tells**: AMENDED post-red-team — the original tell
+  ("becomes more solicitous/warmer when cornered") shared its underlying
+  mechanism with three other characters' tells (a house-wide "gets
+  calmer/warmer under pressure" tic the Gate 2 audit checked for factual
+  contradiction but not craft repetition). **Rebuilt on a different
+  mechanism**: under pressure, Adrienne retreats into rapid, exact
+  recitation of process — she cites specific policy numbers, exact dates,
+  precedent cases, faster and more fluently than the conversation
+  actually requires, using documented procedure as armor rather than
+  affect. It's a "facts as defense" tell, not a warmth one — mechanically
+  distinct from Julian's calm or Elena's brightness, and distinguishes
+  her specifically as someone whose whole professional self is built on
+  command of process.
+- **Arc**: LOCKED, AMENDED post-red-team — compromised mentor → actively
+  shields Mara from internal scrutiny for the first weeks of the
+  investigation, at real professional cost → reverses under direct
+  Palinode-linked personal pressure into a specific, costly Part II
+  betrayal, using the very cover she'd been providing → confronted
+  directly at the climax → a real, costly professional and personal
+  reckoning. Resolves as neither simple villain nor simple redemption —
+  her mentorship of Mara was real and active, not passive; her Part II
+  choice was also a real betrayal; both are true and the book does not
+  let one cancel the other.
 - **Scene utility / indispensability**: The clearest on-page proof that
   "long-term institutional relationships" (Palinode's stated primary
   technique, per `02_novel_bible/palinode_system.md`) work through

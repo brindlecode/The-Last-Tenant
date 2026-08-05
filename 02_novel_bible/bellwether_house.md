@@ -93,22 +93,36 @@ be. **Apartment 4C specifically** is controlled through a distinct shell
 entity, layered at least once removed from any name that would
 obviously connect to Julian Vale or Palinode, consistent with
 `palinode_system.md`'s realism rule that Palinode's power comes from
-paperwork and relationships, not magic. Decades ago, that shell entity
-held a normal, legally filed lease on 4C under a synthetic or
-since-deceased tenant identity. Twelve years ago, that lease formally
-lapsed — the last point at which Apartment 4C touched any official
-record. Since then, the shell entity has simply never filed anything
-new: no lease, no vacancy declaration requiring renewed attention, no
-event that would trigger a fresh look from any city system. Property
-tax on the unit (via the shell entity) has been paid consistently and
-unremarkably, which is the single most likely trigger for outside
-scrutiny — and it never fires. Gabriel Knox's complicity is smaller-
-scale and human: paid, at some point, to not ask questions about foot
-traffic and utility use in a unit that's supposed to be empty. He is not
-the author of the fraud; he's a person who accepted money to stop
-noticing something, which is a very different, and more sympathetic,
-kind of guilty than running the scheme himself. See
-`03_characters/gabriel_knox.md`.
+paperwork and relationships, not magic. **Fifteen years before story
+present** (date now locked, post-red-team — see
+`00_project/gate_3_mystery_validation.md` amendment 10 and
+`05_mystery/objective_truth_timeline.md`), that shell entity took a
+normal, legally filed lease on 4C under a synthetic or since-deceased
+tenant identity. Twelve years ago, that lease formally lapsed — the last
+point at which Apartment 4C touched any official record. Since then, the
+shell entity has simply never filed anything new: no lease, no vacancy
+declaration requiring renewed attention, no event that would trigger a
+fresh look from any city system.
+
+**Note on the property-tax detail, softened post-red-team**: the prior
+version of this paragraph stated, as a general and portable insight,
+that consistent property-tax payment is *the* thing that avoids
+municipal scrutiny for a unit like this — a publishing/legal-risk review
+flagged this as sitting closer to a transferable real-world technique
+than the "category level, not how-to" standard
+`00_project/originality_policy.md` §4 requires, given how logically
+complete and specific the full mechanism reads end to end. **Rephrased**:
+this specific management company's own internal handling of the
+shell-entity account is a fictional quirk of *this* invented company's
+practices, not a stated fact about how NYC municipal oversight generally
+works or fails to work — the mechanism holds inside this book's fiction
+without asserting a portable claim about real city processes. Gabriel
+Knox's complicity is smaller-scale and human: paid, at some point, to
+not ask questions about foot traffic and utility use in a unit that's
+supposed to be empty. He is not the author of the fraud; he's a person
+who accepted money to stop noticing something, which is a very
+different, and more sympathetic, kind of guilty than running the scheme
+himself. See `03_characters/gabriel_knox.md`.
 
 ## Why Bellwether House specifically — RESOLVED, Gate 3
 
