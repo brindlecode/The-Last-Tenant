@@ -1,7 +1,7 @@
 # Julian Vale
 
-STATUS: DRAFT — strong seed from source brief plus this session's
-invention; **Gate 2 review not yet run.** Hard rule, restated from
+STATUS: Gate 2 COMPLETE. Stereotype-risk and consistency review recorded
+in `00_project/gate_2_character_validation.md`. Hard rule, restated from
 `01_author_bible/narrative_distance.md`: Julian's interiority is never
 accessed anywhere in the manuscript. Everything below is bible material
 for consistency of his externally-observable behavior and dialogue —
@@ -87,25 +87,37 @@ not license to narrate his inner life.
   organization runs on.
 - **False belief**: "Identity is infrastructure, not essence.
   Continuity matters more than truth to most people."
-- **Relationship to Mara**: Complicated by something close to
-  inappropriate paternal pride — he was involved, decades ago, in
-  relocating her as a child, and regards the adult she became as
-  evidence his work was right. This should read as genuinely
-  unsettling to Mara once she understands it, not flattering.
-- **Relationship to Elena**: Likely mentored her, at least early in her
-  Palinode involvement (Gate 3 to confirm the specifics) — meaning her
-  eventual turn against him is a personal betrayal to him, not only an
-  operational threat, and should be played that way in any scene between
-  them.
+- **Relationship to Mara**: LOCKED, Gate 3 — not merely "involved" but
+  the person who personally handled the Marsh/Voss family's case, 23
+  years ago, after Mara's father Peter Marsh was killed for uncovering
+  a property-title fraud scheme. It read to Julian, at the time, as an
+  ideal validation case: a genuine whistleblower's family with nowhere
+  official to turn, exactly the failure of official protection that
+  motivated Palinode's founding. His regard for the adult Mara became is
+  therefore not generic pride in a satisfied client's outcome — it's
+  personal, causal, and (once Mara understands it) should read as
+  genuinely unsettling rather than flattering. Full mechanism:
+  `00_project/gate_3_mystery_validation.md` Decision 2.
+- **Relationship to Elena**: LOCKED — mentored her during her operative
+  period. Her eventual turn against him is a personal betrayal to him,
+  not only an operational threat. Once she becomes a genuine threat
+  (via her ~2-year evidence-gathering campaign), he personally directs
+  her non-violent containment rather than delegating it — consistent
+  with how personally he takes both sisters, and with Palinode's
+  operational self-preservation (violence is the high-exposure act the
+  organization avoids). Full mechanism: `gate_3_mystery_validation.md`
+  Decision 3.
 - **Beginning knowledge**: Knows the full truth of Mara's origin; knows
   Elena has gone rogue and is actively investigating; is managing her as
   a contained threat for most of the book.
-- **Ending knowledge**: Largely static by design (antagonists don't
-  require a knowledge arc the way protagonists do) — though his
-  downfall, per the selected ending
-  (`04_plot/ending_options.md`), should force at least one moment of
-  real, specific confrontation with what he's avoided, even if he
-  doesn't change his mind.
+- **Ending knowledge**: Largely static by design — though his downfall
+  is now fully mechanized, not just architecturally implied: at the
+  climax, his own unmet need for Mara's understanding/approval — the
+  one thing his ideology can't manufacture for him — is what Mara's
+  interviewing skill draws out, in a legally usable setting, forcing at
+  least one moment of real, specific confrontation with what he's
+  avoided, even though he doesn't change his mind. Full mechanism:
+  `04_plot/final_ending.md`.
 - **Lie**: Presents Palinode, publicly and to most clients, as
   straightforward protection/altruism; privately knows it has become
   substantially transactional and, in places, corrupted.

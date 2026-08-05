@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-word_count.py — Word counts for THE LAST TENANT manuscript.
+word_count.py — Word counts for A BORROWED NAME manuscript.
 
 Walks 07_manuscript/part_1, part_2, part_3 for chapter files (*.md,
 excluding README.md), counts words per chapter and per part, and
@@ -53,7 +53,7 @@ def chapter_files(part_dir: Path) -> list[Path]:
 
 def main() -> int:
     grand_total = 0
-    print("THE LAST TENANT — word count report\n" + "=" * 40)
+    print("A BORROWED NAME — word count report\n" + "=" * 40)
 
     if not MANUSCRIPT_DIR.is_dir():
         print(f"No manuscript directory found at {MANUSCRIPT_DIR}", file=sys.stderr)

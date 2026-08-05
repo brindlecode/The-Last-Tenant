@@ -4,7 +4,9 @@ STATUS: COMPLETE (Gate 0)
 
 ## Identity
 
-- **Title**: THE LAST TENANT
+- **Title**: A BORROWED NAME (changed from "THE LAST TENANT" during the
+  Gate 2/3 session; see `DECISION_LOG.md` and
+  `12_publishing/title_review.md` for the full comparison and reasoning)
 - **Genre**: Adult psychological thriller, with domestic-suspense and
   mystery elements. Not horror, not supernatural, not literary fiction
   first (though it should read as well-made on a sentence level), not

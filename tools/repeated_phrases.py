@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-repeated_phrases.py — Cross-chapter repetition finder for THE LAST TENANT.
+repeated_phrases.py — Cross-chapter repetition finder for A BORROWED NAME.
 
 Scans chapter files for repeated multi-word phrases (n-grams), both
 within a single chapter and across chapters, and reports any phrase

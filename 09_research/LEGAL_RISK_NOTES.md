@@ -34,8 +34,11 @@ depiction of how real DV relocation and protective services work,
 which could mislead a reader in a similar real situation.
 
 **The rule**: research required before drafting (not just before
-publication) per `FACT_CHECK_QUEUE.md` item 5; a sensitivity read is
-recommended for Evelyn Price's and Jonah Bell's related storylines.
+publication) per `FACT_CHECK_QUEUE.md` item 3 (sensitivity read,
+required, not yet done) and item 4 (NY State program specifics); the
+general mechanism is now sourced (`SOURCE_LOG.md` Entry 5), but a
+dedicated sensitivity read for Evelyn Price's and Jonah Bell's related
+storylines remains outstanding and is not satisfied by general research.
 Fiction is not obligated to be a procedural manual, but should not
 actively misinform on a topic with real safety stakes for real readers.
 

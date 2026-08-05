@@ -1,4 +1,12 @@
-# CLAUDE.md — THE LAST TENANT (Project Constitution)
+# CLAUDE.md — A BORROWED NAME (Project Constitution)
+
+*(Working title changed from "THE LAST TENANT" during the Gate 2/3
+session, after a twenty-candidate comparison found a collision with this
+repository's own rejected branch and a stronger alternative — see
+`DECISION_LOG.md` and `12_publishing/title_review.md`. Every other
+reference to "THE LAST TENANT" below is retained where it names the
+project's git-branch-era history accurately; the working title itself is
+now A BORROWED NAME throughout the rest of the repository.)*
 
 Read this file in full before doing anything else in this repository —
 planning, research, drafting, or editing. If you are a future session
@@ -10,8 +18,9 @@ decided.
 
 ## Canon declaration — read this first
 
-**This repository contains exactly one canonical version of THE LAST
-TENANT.** It concerns Mara Voss, a senior identity-fraud investigator,
+**This repository contains exactly one canonical version of A BORROWED
+NAME** (working title; retired former working title "THE LAST TENANT" —
+see above). It concerns Mara Voss, a senior identity-fraud investigator,
 her missing younger sister Elena Voss, an apartment building in Brooklyn
 called Bellwether House, and a private identity-engineering network
 called the Palinode Continuity Group. This is the **only** approved
@@ -38,7 +47,7 @@ imagistic similarity with that rejected material, stop and re-read
 
 ## What this project is
 
-**THE LAST TENANT** — adult psychological thriller / domestic suspense /
+**A BORROWED NAME** — adult psychological thriller / domestic suspense /
 mystery. Contemporary setting (present-day New York City). Standalone
 novel with limited-series adaptation potential (a market positioning
 note, not a promise — see `00_project/originality_policy.md` on

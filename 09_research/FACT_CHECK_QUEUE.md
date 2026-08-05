@@ -1,74 +1,109 @@
 # Fact-Check Queue
 
 STATUS: DRAFT — consolidated from every research flag scattered across
-`02_novel_bible/`, `03_characters/`, and `05_mystery/` as of this
-session. Two items have graduated to `SOURCE_LOG.md`; everything below
-remains open. Ordered by priority.
+`02_novel_bible/`, `03_characters/`, and `05_mystery/`. Eight items have
+now graduated to `SOURCE_LOG.md` (Entries 1–6 cover items 1, 2, 3
+(partial), 5 (general mechanism), 6 (partial), 7 (general wave), 11
+(general practice)) — remaining open items below are genuinely
+unresolved, not restated for form. Ordered by priority.
+
+## Resolved this session — see `SOURCE_LOG.md` for full detail
+
+- ~~Real SIU/insurance-fraud investigator scope of authority~~ — Entry 4.
+- ~~Real current NYPD missing-persons procedure / civilian access to an
+  active case~~ — Entry 3 (general shape resolved; case-prioritization
+  *statistics* remain open, see below).
+- ~~The general shape of the real immigration wave informing Irena
+  Petrov~~ — resolved and **upgraded**: Entry from Gate 2 research
+  (below) confirms Soviet Jewish emigration to Brighton Beach,
+  Brooklyn, 1975–1980 (~40,000 arrivals) as a specific, real, well-
+  documented wave — see `03_characters/irena_petrov.md`'s rebuilt
+  background section. Precise family-level circumstance (which city,
+  exact reason for departure beyond the general historical push
+  factors) remains an invented-but-now-plausibly-anchored detail, not a
+  further research item.
+- ~~Address-confidentiality/DV-relocation program general mechanism~~ —
+  Entry 5. **Still open**: New York State's specific program name and
+  procedural detail (not queried this pass) — see item 5 below.
+- ~~Data-broker/skip-tracing general legality and regulatory shape~~ —
+  Entry 6. **Still open**: day-to-day tradecraft detail, see item 6
+  below.
+- ~~General agoraphobia representation guidance (research-don't-assume,
+  competence-not-tragedy framing)~~ — general craft guidance found and
+  applied to `03_characters/calvin_moss.md`. **Still open**: a genuine
+  first-person/lived-experience read remains recommended before drafting
+  any scene from inside his POV or with sustained focus on him — general
+  web guidance is not a substitute for this, see item 2 below.
 
 ## High priority (blocks Gate 3/plausibility-critical)
 
-1. **Real SIU/insurance-fraud investigator scope of authority**,
-   specifically where it does and doesn't extend into missing-persons/
-   criminal territory — the actual mechanism behind
-   `00_project/risk_register.md` R-006, beyond the missing-person-
-   report-timing question already resolved in `SOURCE_LOG.md`.
-   Referenced in `03_characters/mara_voss.md`.
-2. **Real current NYPD missing-persons procedure and detective
-   jurisdiction** beyond the intake-timing question — case
-   prioritization, what a civilian (even a credentialed professional)
-   can and cannot access alongside an active investigation. Referenced
-   in `03_characters/investigative_counterpart.md`.
-3. **NYC property records / shell-entity ownership practice** —
-   grounds `02_novel_bible/bellwether_house.md`'s Apartment 4C
-   mechanism; needs to survive real scrutiny of how property tax,
-   vacancy, and lease-filing records actually interact in NYC.
-4. **Six-story walk-up plausibility** for a building of Bellwether
+1. **Six-story walk-up plausibility** for a building of Bellwether
    House's described era/type against real NYC multiple-dwelling
-   patterns. Referenced in `bellwether_house.md`.
+   patterns, and the specific mechanics of how a shell-entity-owned
+   unit's property tax gets billed and paid without triggering scrutiny
+   under NYC's actual assessment/billing cycle. `SOURCE_LOG.md` Entry
+   captures the general LLC-shell-ownership picture (37% of Manhattan
+   parcels are LLC-held — a real, usable, surprising-to-most-readers
+   statistic) but not walk-up-specific building code. Referenced in
+   `bellwether_house.md`.
 
 ## High priority (sensitivity-critical, per `risk_register.md` R-016,
-R-017)
+R-017) — genuinely unresolved, do not draft these scenes without closing
+these
 
-5. **Domestic-violence relocation practice** — grounds Evelyn Price's
-   "Lena Hart" storyline and Jonah Bell's client work. A sensitivity
-   read is recommended in addition to factual research, before this
-   storyline is drafted in detail.
-6. **Agoraphobia and mobility-limitation representation** — grounds
-   Calvin Moss. Explicitly required to be researched from real,
-   first-person-informed sources, not written from assumption or
-   stereotype (`03_characters/calvin_moss.md`).
-7. **The specific real immigration wave and experience** informing
-   Irena Petrov's background (working assumption: emigration from
-   Russia, late 1970s/early 1980s) — needs real, respectful, specific
-   research before her backstory and dialogue are drafted in detail
-   (`03_characters/irena_petrov.md`).
+2. **A genuine first-person/lived-experience read on agoraphobia and
+   mobility limitation**, beyond general web guidance — grounds Calvin
+   Moss. Required before drafting any chapter with sustained focus on
+   him (`03_characters/calvin_moss.md`).
+3. **A sensitivity read specifically for the domestic-violence
+   storyline** (Evelyn Price's "Lena Hart" account, Jonah Bell's client
+   work) — general ACP-mechanism research (Entry 5) is not a substitute
+   for this. Required before those chapters are drafted in detail.
+4. **New York State's specific Address Confidentiality Program name and
+   procedural detail** (the general multi-state mechanism is confirmed,
+   Entry 5, but NY's own program was not separately queried) — needed
+   before any scene names or specifically describes the real-shaped
+   legitimate alternative Elena/Evelyn/Jonah's clients would have
+   considered and found insufficient.
 
 ## Medium priority
 
-8. Real insurance-company internal-investigations governance/reporting
+5. Real insurance-company internal-investigations governance/reporting
    structure — grounds Adrienne Shaw's plausible authority and
    discretion (`03_characters/adrienne_shaw.md`).
-9. Family law / protective-order practice and attorney-client privilege
+6. Family law / protective-order practice and attorney-client privilege
    boundaries in this specific context — grounds Jonah Bell
    (`03_characters/jonah_bell.md`).
-10. Documentary production practice, release forms, footage rights —
-    grounds Rina Cho (`03_characters/rina_cho.md`).
-11. Data-broker industry practice — grounds Calvin Moss's professional
-    world (`03_characters/calvin_moss.md`).
-12. NYC building-superintendent employment/housing arrangements
-    (live-in super conventions) — grounds Gabriel Knox
-    (`03_characters/gabriel_knox.md`).
-13. Maternity/prenatal nursing detail for authenticity — grounds Evelyn
+7. Documentary production practice, release forms, footage rights —
+   grounds Rina Cho (`03_characters/rina_cho.md`).
+8. Day-to-day data-broker/skip-tracing tradecraft detail (which
+   databases, what a realistic search actually returns, typical
+   turnaround) beyond the general legal/regulatory shape now confirmed
+   in `SOURCE_LOG.md` Entry 6 — grounds Calvin Moss's professional
+   scenes specifically (`03_characters/calvin_moss.md`).
+9. NYC building-superintendent employment/housing arrangements
+   (live-in super conventions) — grounds Gabriel Knox
+   (`03_characters/gabriel_knox.md`).
+10. Maternity/prenatal nursing detail for authenticity — grounds Evelyn
     Price's professional credibility (`03_characters/evelyn_price.md`).
+11. Real NYPD detective caseload/case-prioritization statistics (how
+    many active cases a Missing Persons Squad detective typically
+    carries) — would sharpen Teo Marchetti's specific pressures beyond
+    the general "overworked" characterization already in his file.
 
 ## Lower priority / craft calibration
 
-14. Age-appropriate contemporary teen dialogue calibration — Malik Reed
+12. Age-appropriate contemporary teen dialogue calibration — Malik Reed
     (`03_characters/malik_reed.md`); craft judgment more than fact-
     check, but worth a sanity check against real current usage before
     heavy dialogue drafting.
-15. Conservatory/actor-training culture texture — Elena Voss backstory
+13. Conservatory/actor-training culture texture — Elena Voss backstory
     (`03_characters/elena_voss.md`).
+14. Specific historical texture for a Soviet Jewish émigré family's
+    departure circumstances (which Soviet city/republic, occupation
+    before emigration) to make Irena Petrov's pre-arrival life specific
+    rather than generic, now that the general wave is anchored — a
+    depth/richness item, not a plausibility blocker.
 
 ## Standing rule
 

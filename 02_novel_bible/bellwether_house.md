@@ -110,23 +110,28 @@ noticing something, which is a very different, and more sympathetic,
 kind of guilty than running the scheme himself. See
 `03_characters/gabriel_knox.md`.
 
-## Why Bellwether House specifically (not yet fully locked — Gate 3 item)
+## Why Bellwether House specifically — RESOLVED, Gate 3
 
-Working answer, consistent with the selected childhood-event option
-(`00_project/gate_1_concept_validation.md` Part B3): this building is
-where the Voss family's own disappearance was processed, decades ago —
-it is Palinode's own history, not a random site among many, which is
-also why Elena went there deliberately rather than researching her way
-to an arbitrary Palinode location. Irena Petrov's memory of "Anna," a
-woman who lived in the building roughly twenty years earlier and looked
+LOCKED per `00_project/gate_3_mystery_validation.md` Decision 2 and item
+6: this building is where the Marsh/Voss family was processed 23 years
+ago, following father Peter Marsh's murder — it is Palinode's own
+history with this specific family, not a random site among many, which
+is also why Elena went there deliberately rather than researching her
+way to an arbitrary Palinode location. Irena Petrov's memory of "Anna,"
+a woman who lived in the building 23 years earlier (corrected this
+session from the prior approximate "roughly twenty years") and looked
 almost identical to the missing woman she's now being asked about, is
-very likely a memory of Mara and Elena's mother — a real, load-bearing
-piece of testimony, not atmospheric color. **Not yet decided**: whether
-Bellwether House continues to function as an active Palinode
-continuity-testing site *because* of this history (sentimental/practical
-continuity for Palinode) or whether Elena's presence there is the first
-Palinode activity at this address in years, reactivated by her arrival.
-Flagged for Gate 3.
+confirmed as a memory of Mara and Elena's mother, Anna Voss — a real,
+load-bearing piece of testimony, not atmospheric color. **Resolved**:
+Bellwether House was **not** an active Palinode site between the
+family's departure and Elena's arrival — Elena's presence there,
+14–18 months before her disappearance, is the first Palinode-connected
+activity at this address in the intervening 21+ years, deliberately
+reactivated by her once she identified the building's significance.
+Separately, Apartment 4C's "twelve years vacant" record traces to an
+unconnected, later synthetic lease with no relationship to the family's
+own history — see `05_mystery/palinode_timeline.md` for the full
+two-mechanism distinction.
 
 ## Cast placement (working, low-priority to finalize further)
 

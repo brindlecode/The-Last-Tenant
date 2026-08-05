@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-continuity_scan.py — Name-consistency scanner for THE LAST TENANT.
+continuity_scan.py — Name-consistency scanner for A BORROWED NAME.
 
 Reads the canonical name list out of 08_continuity/canonical_facts.md
 ("Names & spellings" section) and checks manuscript chapter files for

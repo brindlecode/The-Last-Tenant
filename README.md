@@ -1,4 +1,7 @@
-# THE LAST TENANT
+# A BORROWED NAME
+
+*(Working title changed from "THE LAST TENANT" during the Gate 2/3
+session — see `DECISION_LOG.md` and `12_publishing/title_review.md`.)*
 
 Adult psychological thriller / domestic suspense / mystery. Standalone
 novel, contemporary New York City setting, ~92,000–96,000 words across

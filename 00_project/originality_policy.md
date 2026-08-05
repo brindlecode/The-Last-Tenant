@@ -12,8 +12,10 @@ Julian Cole, a landlord-developer; Desmond Pye, a caretaker; the city of
 Rookford; a converted mill called Sovereign Mill; a fire-safety
 cover-up mystery.
 
-**None of that material is canon for THE LAST TENANT as defined in this
-repository.** This is stricter than "don't copy sentences." Specifically
+**None of that material is canon for A BORROWED NAME** (working title;
+retired former working title "THE LAST TENANT" — see `DECISION_LOG.md`)
+**as defined in this repository.** This is stricter than "don't copy
+sentences." Specifically
 excluded:
 
 - Any character with the same function-plus-affect combination (e.g., a

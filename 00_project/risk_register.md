@@ -136,8 +136,13 @@ impact (Low/Med/High) — mitigation / owning gate — status.
   Likelihood: High — Impact: Low–Med — Mitigation: flagged in
   `gate_1_concept_validation.md`'s title stress-test; a marketplace title
   search is recommended before any public-facing use, tracked in
-  `12_publishing/title_review.md`. — Status: open, low urgency until
-  publishing phase.
+  `12_publishing/title_review.md`. — **Status: RESOLVED this session.**
+  Title changed to "A BORROWED NAME" after a twenty-candidate comparison
+  found no collision and a stronger thematic/genre fit — see
+  `12_publishing/title_review.md` and `DECISION_LOG.md`. Residual risk
+  carried forward at low urgency: the further real-marketplace search
+  still owed at the pre-submission stage per `title_review.md`'s standing
+  rule.
 - **R-014** — Crowded comp space generally (see R-001) is also a market
   risk, not just a craft risk — agents/editors may pattern-match quickly
   to saturated territory. — Likelihood: Med — Impact: Med — Mitigation:

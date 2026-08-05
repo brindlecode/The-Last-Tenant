@@ -37,8 +37,9 @@ matching Elena's description, but as different people entirely.
   legal researcher who helped his clients disappear from coercive
   marriages.
 - **Irena Petrov**, the building's oldest resident, remembers "Anna" —
-  but from roughly twenty years earlier, a detail Mara initially
-  discounts as an old woman's confusion.
+  but from 23 years earlier, a detail Mara initially discounts as an
+  old woman's confusion (a misreading the narrative itself must never
+  endorse, per `03_characters/irena_petrov.md`'s stereotype-risk guard).
 - **Malik Reed**, thirteen, has glimpsed a woman moving through the
   building's disused service stairwell and dumbwaiter-adjacent routes —
   dismissed by every adult he's mentioned it to.
@@ -80,13 +81,14 @@ between them should be one of the book's hardest scenes — real
 mentorship and real institutional betrayal, simultaneously true.
 
 Irena Petrov's memory of "Anna" is confirmed as significant, not
-mistaken: very likely Mara and Elena's own mother, processed through
-Bellwether House decades earlier, fleeing danger connected to the girls'
-father **(exact nature and father's fate: TBD Gate 3, deliberately left
-open per `00_project/gate_1_concept_validation.md` Part B3)**. Mara
-begins to understand that "Voss" is not her birth name and that her own
-childhood, which she has always treated as the one fully verified fact
-of her life, was itself constructed.
+mistaken: Mara and Elena's own mother, Anna Voss, processed through
+Bellwether House 23 years earlier following the murder of the girls'
+father, Peter Marsh — killed after uncovering and reporting a property-
+title fraud scheme (fully locked, `00_project/gate_3_mystery_validation.md`
+Decision 2). Mara begins to understand that "Voss" is not her birth
+name (she was born Mara Marsh) and that her own childhood, which she
+has always treated as the one fully verified fact of her life, was
+itself constructed.
 
 **Julian Vale** makes contact — not as a cornered antagonist but as
 someone genuinely willing to talk, which is more unsettling than a
@@ -104,12 +106,14 @@ operative/contractor who understood the organization from the inside
 before turning against it — carrying real complicity the book must not
 soften once Elena reappears.
 
-Part II closes on a major reversal/betrayal **(exact mechanism TBD, Gate
-3 — candidates include: a piece of evidence Mara trusted turning out to
-be Palinode-constructed; Adrienne or Teo Marchetti making a choice that
-costs Mara access or safety; Julian Vale executing a move that puts
-Elena or a witness in genuine danger)** that removes whatever safety
-Mara believed she still had, at roughly the 60–70% structural mark.
+Part II closes on a major reversal/betrayal, now locked: Adrienne Shaw,
+under Palinode-linked institutional pressure, restricts Mara's
+professional access and standing at Meridian Assurance Group — a real,
+costly betrayal born of genuine institutional and personal self-
+protection, not long-standing conspiracy (full mechanism,
+`00_project/gate_3_mystery_validation.md` Decision 3) — that removes
+whatever safety Mara believed she still had, at roughly the 60–70%
+structural mark.
 
 ## Part III — The First Tenant (Ch. 35–46, ~22,000–26,000 words)
 
@@ -130,25 +134,35 @@ Elena's judgment over her own fully verified evidence on one crucial
 point — the book's thematic argument resolved through action, not just
 realized through reflection.
 
-Julian Vale's downfall is personal as well as institutional **(exact
-mechanism TBD, Gate 4)** — Palinode's leadership, criminal-client work,
-and financial infrastructure exposed; its legitimately protected
-identities left standing through Mara's deliberate, careful choices.
+Julian Vale's downfall is personal as well as institutional — now
+locked: his own unmet need for Mara's understanding and approval is
+what her interviewing skill draws out at the climax, in a legally
+usable setting (`04_plot/final_ending.md`) — Palinode's leadership,
+criminal-client work, and financial infrastructure exposed; its
+legitimately protected identities left standing through Mara's
+deliberate, careful choices, made by acting on Elena's hard-won
+judgment over her own fully verified evidence.
 
 Mara ends the book having used identity-construction logic herself —
 transparently, consensually, once — to help build Elena a genuine new
 foundation, the ironic and intentional completion of her arc. The
 sisters reach a real, specific, imperfect reconciliation: not
 everything is repaired, but the pattern (proof demanded instead of
-belief offered) is named and, at least once, broken. Final image: TBD
-Gate 4, working candidate is a deliberate, chosen echo of the book's
-opening paradox — Mara now knowingly holding an incomplete or altered
-record of her own life, this time by her own honest choice rather than
-someone else's concealment.
+belief offered) is named and, at least once, broken. Final image, now
+substantially locked (`04_plot/final_ending.md`): a deliberate, chosen
+echo of the book's opening paradox — Mara using identity-construction
+principles herself, transparently and consensually, to help build Elena
+a new foundation, and ending the book knowingly holding an incomplete or
+altered record of her own or Elena's life, this time by her own honest
+choice rather than someone else's concealment. Exact final line/
+paragraph remains Gate 4/drafting work.
 
-## Open items this synopsis depends on (see `master_synopsis.md` and
-relevant Gate 3/4 files once they exist)
+## Formerly-open items this synopsis depended on — ALL RESOLVED
 
 Part II's major betrayal mechanism; the father's fate and the family's
 original surname; Adrienne Shaw's exact knowledge depth and final
-allegiance; Julian Vale's specific downfall mechanism; final image.
+allegiance; Julian Vale's specific downfall mechanism; final image. See
+`00_project/gate_3_mystery_validation.md` and `04_plot/final_ending.md`
+for the full locked answers. Remaining genuinely open: exact chapter-
+level pacing and placement of every beat above (Gate 4, not started
+this session).

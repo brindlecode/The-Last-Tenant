@@ -34,14 +34,28 @@ share the same emotional shape or evidence type — checked here
 explicitly so Gate 4 scene-writing doesn't accidentally flatten them into
 variations on one relationship.
 
-## Cross-checks required at Gate 2
+## Cross-checks — RESOLVED this session (Gate 2/3 pass)
 
-- Confirm Teo Marchetti's relationship to Adrienne Shaw (professional
-  overlap plausible — an insurance SIU and NYPD detective on
-  overlapping cases — not yet decided whether they've interacted before
-  the book starts).
-- Confirm whether Julian Vale and Adrienne Shaw's compromise connects
-  directly (i.e., is she one of "his" long-term institutional
-  relationships specifically) or is a separate, parallel instance of the
-  same technique. Currently undecided — flagged in
-  `02_novel_bible/palinode_system.md`.
+- ~~Confirm Teo Marchetti's relationship to Adrienne Shaw~~ — **Resolved**:
+  one prior unremarkable professional overlap, years ago, no personal
+  history. See `investigative_counterpart.md`'s "Prior overlap with
+  Adrienne Shaw" section.
+- ~~Confirm whether Julian Vale and Adrienne Shaw's compromise connects
+  directly~~ — **Resolved**: she is not one of Julian's long-term,
+  knowingly-managed institutional relationships. Her compromise is
+  self-generated (years of generalized, self-protective not-quite-
+  knowing about suppressed claim patterns) and Palinode-linked pressure
+  reaches her reactively, once, in Part II — a separate, parallel
+  instance of the general technique, not a standing asset Julian
+  personally cultivated the way he did with the Voss/Marsh case. See
+  `00_project/gate_3_mystery_validation.md` Decision 3, item 9, and
+  `adrienne_shaw.md`.
+
+## New cross-check confirmed this session
+
+- Elena's relationship to all seven witnesses is now confirmed to run on
+  a single, unified timeline (roughly fourteen to eighteen months
+  pre-disappearance) rather than an unspecified span — see
+  `gate_3_mystery_validation.md` Decision 3 and the rebuilt
+  `05_mystery/elena_timeline.md`. This closes the previously-open timing
+  question in this file's Witness Relationships table.

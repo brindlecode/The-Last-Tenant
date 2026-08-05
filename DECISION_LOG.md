@@ -86,11 +86,73 @@ research phase.
 
 ---
 
-## Unresolved high-impact decisions — awaiting human approval
+## 2026-08-05 — Gate 2 and Gate 3 session: all five previously-open high-impact decisions resolved
 
-These are flagged here specifically because they materially shape the
-book and were deliberately **not** defaulted by this session without
-sign-off:
+Per explicit instruction, this session resolved every decision flagged
+below in the "Unresolved high-impact decisions" section (preserved
+un-edited immediately below this entry, per this file's own "append,
+don't rewrite history" rule) through genuine multi-option generation and
+comparison — not by default, and not by picking the first plausible
+answer. Summary (full reasoning in the files cited):
+
+1. **Title, RESOLVED**: twenty candidates generated and scored; "THE
+   LAST TENANT" retired (confirmed collision); **"A BORROWED NAME"**
+   selected. Full comparison: `12_publishing/title_review.md`. Propagated
+   to `CLAUDE.md`, `README.md`, `00_project/project_charter.md`,
+   `02_novel_bible/master_premise.md`, `risk_register.md` R-013 (marked
+   resolved), `12_publishing/elevator_pitch.md`, and `tools/*.py`
+   docstrings. `00_project/gate_1_concept_validation.md` deliberately
+   left un-edited per its own no-silent-edit rule — it remains an
+   accurate record of the Gate 1-era holding position.
+2. **Voss family origin/father's fate, RESOLVED**: three versions
+   generated (predatory-lender debt flight; genre-standard organized-
+   crime witness relocation; records-fraud whistleblower killed, family
+   relocated in the aftermath) plus a domestic-violence variant rejected
+   early for repeating an already-used shape. Selected: the
+   records-fraud version, refining rather than replacing Gate 1's
+   already-selected "external criminal danger" category. Original
+   surname **Marsh**; father **Peter Marsh**, killed in a staged
+   accident after uncovering property-title fraud in his work as a
+   records examiner; mother **Anna Marsh** → **Anna Voss**. Full
+   record, including why this creates causal (not coincidental) irony
+   with Mara's own profession: `00_project/gate_3_mystery_validation.md`
+   Decision 2.
+3. **What happened to Elena, RESOLVED**: four versions generated
+   (soft containment; self-directed hiding plus unrelated medical
+   crisis; betrayal-and-violent-struggle; self-orchestrated
+   disappearance). Selected: non-violent soft containment at a
+   Palinode-controlled site, ordered personally by Julian Vale, triggered
+   by Gabriel Knox's self-protective report — a specific human failure
+   point, not omniscience. Full mechanism, including Elena's
+   whistleblower trigger, the hidden cache's true origin and purpose,
+   Part II's betrayal (Adrienne Shaw), and Julian's downfall mechanism:
+   `gate_3_mystery_validation.md` Decision 3.
+4. **Ending architecture, CONFIRMED**: re-tested Architecture 1
+   (refined) against the now-fully-built mystery from Decisions 2–3;
+   confirmed without change, now with a concrete rather than
+   architectural climax. Full lock: `04_plot/final_ending.md`.
+5. **Teo Marchetti romantic subplot, CONFIRMED**: four versions compared
+   (no romance; unconsummated slow burn; pre-existing history; active
+   developing romance). No-romance default confirmed, with specific
+   reasoning beyond inertia (his false belief already mirrors Mara's
+   own; adding romantic tension would compete with, not reinforce, that
+   thematic mirroring). Full comparison and newly resolved Teo/Adrienne
+   prior-overlap cross-check: `03_characters/investigative_counterpart.md`.
+
+All five decisions, plus the full ~25-question Gate 3 objective-truth
+checklist, are recorded in `00_project/gate_3_mystery_validation.md`.
+`08_continuity/open_questions.md` updated to reflect every item now
+closed.
+
+---
+
+## Unresolved high-impact decisions as of the prior (foundation) session — ALL RESOLVED ABOVE, preserved for history
+
+These were flagged in the foundation session specifically because they
+materially shape the book and were deliberately **not** defaulted
+without sign-off. **All five are now resolved — see the entry directly
+above.** Preserved un-edited below per this file's own append-only rule;
+do not treat this section as still open.
 
 1. **Title uniqueness** (`00_project/risk_register.md` R-013,
    `12_publishing/title_review.md`): "THE LAST TENANT" duplicates this

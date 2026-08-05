@@ -1,7 +1,7 @@
 # Rina Cho
 
-STATUS: DRAFT — seed from source brief plus this session's invention;
-Gate 2 review not yet run.
+STATUS: Gate 2 COMPLETE. Stereotype-risk and consistency review recorded
+in `00_project/gate_2_character_validation.md`.
 
 - **Full name**: Rina Cho.
 - **Age**: 34.
@@ -14,12 +14,18 @@ Gate 2 review not yet run.
 - **Physical presence**: Works odd, irregular hours; an editor's
   trained eye for visual detail and sequence, which she can't quite turn
   off in ordinary conversation.
-- **Family and cultural background**: Korean-American; specific family
-  and generational detail (immigrant-generation status, family
-  relationships) to be built with real specificity at Gate 2 rather than
-  left as a surname-only marker.
-- **Education**: Film school or equivalent practical training (unnamed
-  institution).
+- **Family and cultural background**: LOCKED, Gate 2 — Korean-American,
+  second-generation; parents immigrated from Busan in the late 1980s and
+  run a dry-cleaning business in Queens that Rina worked in throughout
+  high school. Close but quietly strained relationship with her parents,
+  who have never fully understood or endorsed a documentary-editing
+  career over something more conventionally stable — a real, specific,
+  common second-generation tension, not a generalized "immigrant
+  parents" placeholder. One older brother, an accountant, who did take
+  the conventional path; the sibling contrast is a minor, unforced
+  source of texture if Gate 4 ever wants a scene with her family.
+- **Education**: Film school (unnamed institution), concentration in
+  editing and post-production.
 - **Economic situation**: Freelance, project-to-project, genuinely
   precarious — a deliberate parallel to Elena's own actor-economy
   precarity, a shared texture between the two even though their
@@ -49,8 +55,14 @@ Gate 2 review not yet run.
   to be involved in.
 - **Shame**: Didn't push harder on inconsistencies because the material
   was compelling and she wanted it to be real/usable.
-- **Secret**: Holds specific raw footage more revealing than she's
-  realized — she's been looking at it as a filmmaker, not as evidence.
+- **Secret**: LOCKED, Gate 3 — her raw footage is interview material of
+  Elena, in the documentary-researcher identity, discussing — in
+  careful, generalized language Rina understood at the time as being
+  "about the film's subject" — the real mechanics of manufactured
+  continuity. Re-examined after the disappearance, it reads as Elena
+  obliquely describing her own situation throughout, established
+  roughly in the later half of Elena's fourteen-to-eighteen-month
+  Bellwether House campaign (`05_mystery/elena_timeline.md`).
 - **False belief**: That if something is on camera, consistently, across
   multiple sessions, it's real.
 - **Relationship to Mara**: Professional-to-professional mutual respect,
@@ -62,17 +74,28 @@ Gate 2 review not yet run.
 - **Beginning knowledge**: Has raw footage and research notes she
   hasn't fully re-examined since the disappearance.
 - **Ending knowledge**: Realizes the actual evidentiary weight of what
-  she's been sitting on.
-- **Behavioral tells**: TBD, Gate 2.
+  she's been sitting on once she and Mara re-examine the footage
+  together (`05_mystery/clue_register.md` #8) — a genuine collaborative
+  discovery, not a unilateral one, consistent with her arc below.
+- **Behavioral tells**: Frames people with her hands without noticing
+  she's doing it — an unconscious editor's habit, thumbs and
+  forefingers briefly squaring a shot — when she's turning something
+  over intently. Reflexively says "hang on, go back" mid-conversation,
+  a verbal tic carried over from reviewing footage, when she wants
+  someone to repeat something she's just registered as significant.
 - **Arc**: Has evidence without recognizing its full value → applies her
-  professional skepticism to her own life for the first time.
+  professional skepticism to her own life for the first time, in active
+  collaboration with Mara rather than alone.
 - **Scene utility / indispensability**: Provides literal physical/
   recorded evidence as clue material, and carries the "editing
   manufactures apparent truth" theme directly and specifically (distinct
   from the paper/testimony evidence every other witness provides).
-- **Stereotype risk**: Avoid "quirky artsy millennial" shorthand — her
-  professional expertise should read as genuinely rigorous, not as
-  aesthetic flavor.
+- **Stereotype risk**: "Quirky artsy millennial" shorthand explicitly
+  avoided — her professional expertise reads as genuinely rigorous, and
+  her family background (above) is specific rather than a surname-only
+  marker, per this file's own prior standing requirement.
 - **Research needs**: Documentary production practice, release-form and
-  footage-rights basics (also feeds legal plausibility). Queued in
-  `09_research/FACT_CHECK_QUEUE.md`.
+  footage-rights basics remain a medium-priority open item
+  (`09_research/FACT_CHECK_QUEUE.md` item 7) — useful for the specific
+  procedural texture of her footage-related scenes, not blocking Gate 2
+  closure.

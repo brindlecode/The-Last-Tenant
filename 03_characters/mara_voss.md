@@ -1,12 +1,20 @@
 # Mara Voss
 
-STATUS: DRAFT — strong seed from source brief plus this session's
-invention for ungiven fields; **Gate 2 stereotype-risk and full
-consistency review not yet run.**
+STATUS: Gate 2 COMPLETE. Stereotype-risk and consistency review recorded
+in `00_project/gate_2_character_validation.md`.
 
-- **Full name**: Mara Voss. "Voss" is the surname Palinode assigned the
-  family; the birth surname is deliberately withheld, deferred to Gate 3
-  (see `02_novel_bible/master_premise.md`).
+- **Full name**: Mara Voss, born **Mara Marsh**. "Voss" is the surname
+  Palinode assigned the family when Mara was 13, following her father
+  Peter Marsh's murder — see
+  `00_project/gate_3_mystery_validation.md` Decision 2 for the full,
+  locked origin. Mara does not know this at the start of the book (see
+  Beginning knowledge, below); "Marsh" is never spoken in her presence
+  in Part I or early Part II by anyone still using it, since her mother
+  Anna and Elena both know better.
+- **Date of birth / precise age marker**: 36 at story present; was 13
+  at the time of the family's relocation, 23 years before story present
+  — both figures cross-checked and locked in
+  `gate_3_mystery_validation.md`.
 - **Age**: 36.
 - **Role**: Primary protagonist, dominant POV (~85–95% of the book).
 - **Occupation**: Senior investigator, Special Investigations Unit,
@@ -97,9 +105,20 @@ consistency review not yet run.**
   manufactured; believes her own childhood record is straightforwardly
   true.
 - **Ending knowledge**: The truth of Palinode, her own manufactured
-  origin, and (per the selected ending architecture,
-  `04_plot/ending_options.md`) enough of what happened to Elena to make
-  a real, costly choice about what to do with all of it.
+  origin (her birth name, her father Peter Marsh's real death, her
+  mother's decision), and, per the locked ending
+  (`04_plot/final_ending.md`), the full mechanism of Elena's
+  disappearance and enough of what to do with all of it to make a real,
+  costly choice at the climax.
+- **A childhood memory, now specified**: Mara has always carried one
+  hazy, decontextualized memory of a walk-up apartment building she's
+  never been able to place — a smell, a particular creak of stairs, a
+  woman's voice she associates with safety rather than fear. She has
+  never treated this as significant. The investigation recontextualizes
+  it with real force once she understands what it actually was. This is
+  a character/emotional beat for Gate 4 to place, not a formal
+  fair-play clue in `05_mystery/clue_register.md` — it belongs to Mara
+  alone until she chooses to voice it, if she does.
 - **Lie (ongoing behavior, distinct from the specific secret above)**:
   Maintains, to herself and others, that the estrangement from Elena
   doesn't especially affect her and that she's pursuing the case
@@ -127,7 +146,9 @@ consistency review not yet run.**
   `investigative_counterpart.md`'s no-conventional-romance default), and
   she should remain recognizably herself (precise, controlled, dry) at
   the end, not "warmed" into a different personality.
-- **Research needs**: Real SIU/insurance-fraud investigator scope of
-  practice and authority; where that authority does and does not extend
-  into missing-persons/criminal territory (directly informs
-  `risk_register.md` R-006). Queued in `09_research/FACT_CHECK_QUEUE.md`.
+- **Research needs**: Substantially resolved — see
+  `09_research/SOURCE_LOG.md` Entries 3 and 4 (SIU statutory authority is
+  real and bounded; civilian/police information boundaries confirmed).
+  Directly grounds `risk_register.md` R-006; see
+  `00_project/gate_3_mystery_validation.md` "R-006" entry in
+  `05_mystery/solution_stress_test.md` for the confirmed mechanism.

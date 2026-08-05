@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-chapter_stats.py — Per-chapter craft stats for THE LAST TENANT.
+chapter_stats.py — Per-chapter craft stats for A BORROWED NAME.
 
 For every chapter file under 07_manuscript/part_*/, reports word count,
 paragraph count, average paragraph length, an estimated dialogue

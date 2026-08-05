@@ -4,7 +4,9 @@ STATUS: DRAFT — usable now; revisit once the manuscript is finished.
 
 ## 30-second version
 
-THE LAST TENANT is a psychological thriller about an identity-fraud
+A BORROWED NAME (working title, changed from "THE LAST TENANT" —
+see `DECISION_LOG.md` and `title_review.md`) is a psychological thriller
+about an identity-fraud
 investigator whose sister vanishes into a Brooklyn apartment building
 where seven neighbors remember her as seven different people — and
 whose search for the truth forces her to realize the same organization

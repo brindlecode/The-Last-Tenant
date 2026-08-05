@@ -16,15 +16,20 @@ against the three-part structure already locked in
 
 ## Why it isn't written yet
 
-Placing milestones against real chapter numbers requires Part II's
-major-betrayal mechanism and Julian Vale's downfall mechanism to be
-decided first (currently open items, see `five_page_synopsis.md`) —
-otherwise the milestone placements would be guesses dressed as
-structure.
+Formerly blocked on Part II's major-betrayal mechanism and Julian
+Vale's downfall mechanism — **both are now resolved**, see
+`00_project/gate_3_mystery_validation.md` Decision 3 and
+`04_plot/final_ending.md`. This file remains unwritten this session for
+a different reason: Gate 4 structural work was explicitly out of scope
+for this session's instructions (Gate 2/3 closure only). The actual
+prerequisite blocker is cleared; the next session can begin this file
+directly.
 
 ## Prerequisite
 
-Resolution of `five_page_synopsis.md`'s open items; `05_mystery/reveal_ladder.md`.
+~~Resolution of `five_page_synopsis.md`'s open items~~ — DONE.
+`05_mystery/reveal_ladder.md` — DONE, at Part-level granularity, ready
+to be subdivided into chapters here.
 
 ## Interim resource
 

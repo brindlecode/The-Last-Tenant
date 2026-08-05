@@ -5,9 +5,15 @@ detail remains open to Gate 2–4 refinement.
 
 ## Title
 
-THE LAST TENANT. Uniqueness caveat logged in `risk_register.md` R-013
-and `12_publishing/title_review.md` — keep as working title through
-drafting.
+A BORROWED NAME (changed from the Gate 1 working title "THE LAST TENANT"
+this session — see `DECISION_LOG.md` and `12_publishing/title_review.md`
+for the full comparison of twenty alternatives and the reasoning).
+"THE LAST TENANT" is retired as a title for this project: it collided
+with this repository's own rejected branch and with a near-identical
+existing title, and a real, better-scoring alternative existed. The new
+title is confirmed unique as of this session's search pass; see
+`title_review.md`'s standing rule for the further marketplace check still
+owed at pre-submission.
 
 ## Logline
 

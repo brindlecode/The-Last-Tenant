@@ -1,7 +1,7 @@
 # Elena Voss
 
-STATUS: DRAFT — strong seed from source brief plus this session's
-invention; **Gate 2 review not yet run.** Per the source brief's own
+STATUS: Gate 2 COMPLETE. Stereotype-risk and consistency review recorded
+in `00_project/gate_2_character_validation.md`. Per the source brief's own
 explicit instruction, repeated here as a standing constraint on every
 future draft: Elena must not be idealized merely because she is
 missing. She made serious mistakes, deceived Mara, and endangered
@@ -74,13 +74,21 @@ after she's found.
   extends to her "unstable" moments — so she performs a manageable
   version of herself pre-emptively rather than risk the real one being
   rejected.
-- **Shame**: Her own complicity in Palinode's harms as an adult
-  operative — identities she helped build were later used to hurt
-  people, not always with her full knowledge at the time, and at least
-  once with knowledge she chose not to act on until later.
-- **Secret**: The full extent of her Palinode complicity, and the
-  specific trigger that turned her from operative to whistleblower-in-
-  progress — not yet fully built; a Gate 3 item.
+- **Shame**: LOCKED, Gate 3 — she built a full continuity identity for a
+  paying client relocating to escape a credible abuse allegation tied to
+  his position running a private youth program, not knowing (or not
+  letting herself know) the reason he needed to disappear. About a year
+  later, she learned he had re-offended under the new identity. This is
+  not knowledge she chose not to act on at the time — she genuinely
+  didn't know — but she has never forgiven herself for not asking harder
+  questions when the client's urgency and secrecy, in hindsight, had
+  real warning signs.
+- **Secret**: LOCKED — the youth-program client's re-offense (above) is
+  her whistleblower trigger, and the full scope of her ~2-year campaign
+  gathering proof against Palinode, including the fourteen-to-eighteen-
+  month Bellwether House operation and the hidden cache in Apartment
+  4C. Full mechanism: `00_project/gate_3_mystery_validation.md`
+  Decision 3.
 - **False belief**: "If Mara really loved me, she wouldn't need proof." —
   the precise mirror of Mara's false belief; neither sister is right,
   which is the point (see `02_novel_bible/thematic_argument.md`).
@@ -93,10 +101,16 @@ after she's found.
   Mara's manufactured origin; is close enough to a dangerous discovery
   at Bellwether House to have become a genuine threat to the
   organization.
-- **Ending knowledge**: TBD at Gate 3 — likely includes a fuller truth
-  about their father's fate and about Julian Vale's actual regard for
-  Mara, both currently open items (see
-  `00_project/gate_1_concept_validation.md` Part B3).
+- **Ending knowledge**: LOCKED — Elena already knows, before the book
+  begins, more of the family's true history than Mara (their father's
+  real name and the shape of what happened to him, though not
+  necessarily every detail Mara eventually finds independently via the
+  regulatory-complaint trail), and already understands Julian Vale's
+  paternal regard for Mara from her own operative-era exposure to him.
+  Her ending-of-book knowledge state is less about new facts and more
+  about consequence: she has to reckon, on the page, with the cost of
+  having used her own sister's history as investigative leverage even
+  while loving her, and with the seven relationships she leaves broken.
 - **Lie (ongoing behavior toward Mara, distinct from the Palinode
   secret)**: Never explains to Mara the real reason for her
   secretiveness and instability over the years — lets Mara believe it's
@@ -109,12 +123,15 @@ after she's found.
   charming, precisely when she is most frightened — the inverse of the
   expected tell, and a specific, ownable detail distinct from any
   generic "nervous tic."
-- **Arc**: Not fully drawn at Gate 1 by design (her on-page arc depends
-  on Gate 3/4 structural decisions about when and how she appears) — but
-  locked as: a person who must be found *and reckoned with*, not
-  rescued-and-resolved. Her presence in the book's second half should
-  cost the reader some of their sympathy and then re-earn it, not simply
-  confirm what they already assumed.
+- **Arc**: LOCKED, Gate 3 — a person who must be found *and reckoned
+  with*, not rescued-and-resolved. Her operative complicity (the
+  youth-program client) must land, per `05_mystery/reveal_ladder.md`
+  item 9, **before** she is physically found in Part III, specifically
+  so the reader's sympathy is genuinely complicated ahead of the reunion
+  rather than retroactively — her presence in the book's second half
+  costs the reader real sympathy and then re-earns it, not simply
+  confirms what they already assumed. See
+  `04_plot/final_ending.md` for her reunion scene's required content.
 - **Scene utility / indispensability**: The only character who embodies
   "identity as performance" as a genuine counter-worldview to Mara's
   "identity as record" — without her, the book's central question has
@@ -125,6 +142,11 @@ after she's found.
   agency, and real culpability on the page once she appears — not
   softened into a symbol because she was gone for most of the book.
 - **Research needs**: Light — conservatory/actor-training culture for
-  authenticity in her backstory texture; DV-relocation practice
-  research (shared with `evelyn_price.md`) informs how her "Lena Hart"
-  performance would need to be constructed to be convincing.
+  authenticity in her backstory texture (`FACT_CHECK_QUEUE.md`, low
+  priority). DV/address-confidentiality-program research substantially
+  resolved (`SOURCE_LOG.md` Entry 5) — informs both how convincing "Lena
+  Hart" needed to be *and* the specific, locked reason a real program
+  wouldn't have been sufficient for the persona's needs (a full intake
+  would have required more identity verification than the construction
+  could survive) — see `03_characters/supporting_cast.md`'s Renata
+  Kucera entry.

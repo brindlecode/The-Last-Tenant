@@ -78,9 +78,11 @@ real, if not uncomplicated, reconciliation.
 
 ## What remains open
 
-Gate 3 has not yet locked: the exact operational trigger that made
+Gate 3 is now closed — see `00_project/gate_3_mystery_validation.md` for
+the full, locked answers to: the exact operational trigger that made
 Elena's investigation dangerous to Palinode specifically now; the
 father's fate; the family's pre-Palinode surname; Adrienne Shaw's exact
-knowledge depth; the specific mechanism of Part II's major betrayal; and
-full chapter-level placement of every beat above. See
-`00_project/quality_gates.md` Gates 2–5 for what closes each of these.
+knowledge depth; the specific mechanism of Part II's major betrayal.
+**Genuinely still open**: full chapter-level placement of every beat
+above — explicit Gate 4 work, not started this session per instruction.
+See `00_project/quality_gates.md` for the gate-by-gate breakdown.

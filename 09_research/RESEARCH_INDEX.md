@@ -1,7 +1,13 @@
 # Research Index
 
-STATUS: DRAFT — methodology established, two real entries seeded this
-session as proof of the system, most factual grounding still queued.
+STATUS: DRAFT — methodology established at foundation, now with seven
+real, sourced entries in `SOURCE_LOG.md` (jurisdictional/procedural
+plausibility, LLC-shell property practice, agoraphobia writing
+guidance, Soviet Jewish emigration history, DV address-confidentiality
+programs, data-broker regulation). Several high-priority items remain
+genuinely queued in `FACT_CHECK_QUEUE.md` — most importantly the DV-
+storyline and agoraphobia lived-experience sensitivity reads, neither of
+which general research substitutes for.
 
 ## Method
 
@@ -27,12 +33,19 @@ private investigation.
 
 Government sources, official documentation, primary sources, and
 authoritative professional material, in that order of preference, per
-the source brief. Two real entries are seeded in `SOURCE_LOG.md` this
-session (NYPD/NYC missing-person reporting procedure via NYC311; synthetic
-identity fraud definition via Federal Reserve-affiliated FedPayments
-Improvement initiative) to establish the actual sourcing standard other
-entries should meet, not as a complete research pass — the great majority
-of the priority list above remains in `FACT_CHECK_QUEUE.md`, unresolved.
+the source brief. Seven real entries are now in `SOURCE_LOG.md`,
+spanning missing-person procedure (NYC311), synthetic identity fraud
+definition (Federal Reserve-affiliated FedPayments Improvement/FinCEN),
+civilian/police information boundaries and SIU statutory authority (a
+real California SIU regulation plus industry sources), NYC LLC-shell
+property ownership (a real, sourced 37%-of-Manhattan-parcels statistic),
+Address Confidentiality Program mechanics (multiple state government
+sources), data-broker regulation (a real Federal Register document), and
+Soviet Jewish emigration to Brighton Beach (NYPL and other cross-read
+sources). This is real progress, not a complete research pass — several
+items, most importantly the two sensitivity reads flagged in
+`FACT_CHECK_QUEUE.md`, remain genuinely unresolved and are not
+satisfiable by further general web research alone.
 
 ## Topic files
 
